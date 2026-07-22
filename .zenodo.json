@@ -1,0 +1,28 @@
+{
+  "title": "Reproducible raw-data reanalysis of human intracerebral haemorrhage transcriptomic and genetic evidence",
+  "description": "Complete R workflow, intermediate tabular results, environment lockfile, figures and provenance manifests for raw-data reanalysis of GSE24265, GSE163256 and GSE266873, together with instrument-complete Mendelian randomization and regional colocalisation.",
+  "upload_type": "software",
+  "license": "MIT",
+  "version": "1.0.0",
+  "creators": [
+    {"name": "Zhao, Zhihao"},
+    {"name": "Jiang, Xiaobing"},
+    {"name": "Gao, Wenwen"},
+    {"name": "Man, Xin"},
+    {"name": "Li, Fei"},
+    {"name": "Ding, Zhiwei"},
+    {"name": "Yi, Fan"},
+    {"name": "Xie, Kaiming"},
+    {"name": "Zhang, Liang"},
+    {"name": "Wu, Hao"},
+    {"name": "Zhao, Haikang"}
+  ],
+  "keywords": [
+    "intracerebral haemorrhage",
+    "transcriptomics",
+    "Mendelian randomization",
+    "colocalisation",
+    "single-cell RNA sequencing",
+    "reproducible research"
+  ]
+}

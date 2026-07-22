@@ -1,0 +1,400 @@
+sample	accession	title	internal_id	cell_type	source	patient	day	replicate	bio_id
+ICHSeqBatch5redo_C03	GSM4975935	CD14+ monos/macs from blood of ICH patient number 2215 on day 2 of study - replicate 1	ICHSeqBatch5redo_C03	Monocyte	ICHBlood	2215	2	1	Monocyte|ICHBlood|2215|2
+ICHSeqBatch5redo_D10	GSM4975773	CD14+ monos/macs from hematoma of ICH patient number 2375 on day 3 of study - replicate 2	ICHSeqBatch5redo_D10	Monocyte	Hematoma	2375	3	2	Monocyte|Hematoma|2375|3
+ICHSeqBatch5redo_D11	GSM4975776	CD14+ monos/macs from hematoma of ICH patient number 2375 on day 4 of study - replicate 2	ICHSeqBatch5redo_D11	Monocyte	Hematoma	2375	4	2	Monocyte|Hematoma|2375|4
+ICHSeqBatch5redo_D04	GSM4975765	CD14+ monos/macs from hematoma of ICH patient number 2375 on day 1 of study - replicate 1	ICHSeqBatch5redo_D04	Monocyte	Hematoma	2375	1	1	Monocyte|Hematoma|2375|1
+ICHSeqBatch5redo_C08	GSM4975934	CD14+ monos/macs from hematoma of ICH patient number 2215 on day 1 of study - replicate 1	ICHSeqBatch5redo_C08	Monocyte	Hematoma	2215	1	1	Monocyte|Hematoma|2215|1
+ICHSeqBatch5redo_C12	GSM4975944	CD14+ monos/macs from hematoma of ICH patient number 2215 on day 5 of study - replicate 1	ICHSeqBatch5redo_C12	Monocyte	Hematoma	2215	5	1	Monocyte|Hematoma|2215|5
+ICHSeqBatch5redo_B05	GSM4975920	CD14+ monos/macs from blood of ICH patient number 2385 on day 4 of study - replicate 1	ICHSeqBatch5redo_B05	Monocyte	ICHBlood	2385	4	1	Monocyte|ICHBlood|2385|4
+ICHSeqBatch5redo_D06	GSM4975772	CD14+ monos/macs from hematoma of ICH patient number 2375 on day 3 of study - replicate 1	ICHSeqBatch5redo_D06	Monocyte	Hematoma	2375	3	1	Monocyte|Hematoma|2375|3
+ICHSeqBatch5redo_D02	GSM4975942	CD14+ monos/macs from hematoma of ICH patient number 2215 on day 4 of study - replicate 2	ICHSeqBatch5redo_D02	Monocyte	Hematoma	2215	4	2	Monocyte|Hematoma|2215|4
+ICHSeqBatch5redo_B07	GSM4975912	CD14+ monos/macs from hematoma of ICH patient number 2385 on day 1 of study - replicate 1	ICHSeqBatch5redo_B07	Monocyte	Hematoma	2385	1	1	Monocyte|Hematoma|2385|1
+ICHSeqBatch5redo_B03	GSM4975913	CD14+ monos/macs from blood of ICH patient number 2385 on day 2 of study - replicate 1	ICHSeqBatch5redo_B03	Monocyte	ICHBlood	2385	2	1	Monocyte|ICHBlood|2385|2
+ICHSeqBatch5redo_A12	GSM4975815	CD14+ monos/macs from hematoma of ICH patient number 2379 on day 5 of study - replicate 1	ICHSeqBatch5redo_A12	Monocyte	Hematoma	2379	5	1	Monocyte|Hematoma|2379|5
+ICHSeqBatch5redo_C11	GSM4975941	CD14+ monos/macs from hematoma of ICH patient number 2215 on day 4 of study - replicate 1	ICHSeqBatch5redo_C11	Monocyte	Hematoma	2215	4	1	Monocyte|Hematoma|2215|4
+ICHSeqBatch5redo_D07	GSM4975775	CD14+ monos/macs from hematoma of ICH patient number 2375 on day 4 of study - replicate 1	ICHSeqBatch5redo_D07	Monocyte	Hematoma	2375	4	1	Monocyte|Hematoma|2375|4
+ICHSeqBatch5redo_C09	GSM4975936	CD14+ monos/macs from hematoma of ICH patient number 2215 on day 2 of study - replicate 1	ICHSeqBatch5redo_C09	Monocyte	Hematoma	2215	2	1	Monocyte|Hematoma|2215|2
+ICHSeqBatch5redo_B11	GSM4975919	CD14+ monos/macs from hematoma of ICH patient number 2385 on day 3 of study - replicate 2	ICHSeqBatch5redo_B11	Monocyte	Hematoma	2385	3	2	Monocyte|Hematoma|2385|3
+ICHSeqBatch5redo_E02	GSM4975774	CD14+ monos/macs from blood of ICH patient number 2375 on day 4 of study - replicate 1	ICHSeqBatch5redo_E02	Monocyte	ICHBlood	2375	4	1	Monocyte|ICHBlood|2375|4
+ICHSeqBatch5redo_B10	GSM4975918	CD14+ monos/macs from hematoma of ICH patient number 2385 on day 3 of study - replicate 1	ICHSeqBatch5redo_B10	Monocyte	Hematoma	2385	3	1	Monocyte|Hematoma|2385|3
+ICHSeqBatch5redo_D09	GSM4975769	CD14+ monos/macs from hematoma of ICH patient number 2375 on day 2 of study - replicate 2	ICHSeqBatch5redo_D09	Monocyte	Hematoma	2375	2	2	Monocyte|Hematoma|2375|2
+ICHSeqBatch5redo_A03	GSM4975809	CD14+ monos/macs from blood of ICH patient number 2379 on day 3 of study - replicate 1	ICHSeqBatch5redo_A03	Monocyte	ICHBlood	2379	3	1	Monocyte|ICHBlood|2379|3
+ICHSeqBatch5redo_C06	GSM4975943	CD14+ monos/macs from blood of ICH patient number 2215 on day 5 of study - replicate 1	ICHSeqBatch5redo_C06	Monocyte	ICHBlood	2215	5	1	Monocyte|ICHBlood|2215|5
+ICHSeqBatch5redo_C04	GSM4975937	CD14+ monos/macs from blood of ICH patient number 2215 on day 3 of study - replicate 1	ICHSeqBatch5redo_C04	Monocyte	ICHBlood	2215	3	1	Monocyte|ICHBlood|2215|3
+ICHSeqBatch5redo_D05	GSM4975768	CD14+ monos/macs from hematoma of ICH patient number 2375 on day 2 of study - replicate 1	ICHSeqBatch5redo_D05	Monocyte	Hematoma	2375	2	1	Monocyte|Hematoma|2375|2
+ICHSeqBatch5redo_B06	GSM4975917	CD14+ monos/macs from blood of ICH patient number 2385 on day 3 of study - replicate 2	ICHSeqBatch5redo_B06	Monocyte	ICHBlood	2385	3	2	Monocyte|ICHBlood|2385|3
+ICHSeqBatch5redo_A10	GSM4975812	CD14+ monos/macs from hematoma of ICH patient number 2379 on day 4 of study - replicate 1	ICHSeqBatch5redo_A10	Monocyte	Hematoma	2379	4	1	Monocyte|Hematoma|2379|4
+ICHSeqBatch5redo_C02	GSM4975933	CD14+ monos/macs from blood of ICH patient number 2215 on day 1 of study - replicate 1	ICHSeqBatch5redo_C02	Monocyte	ICHBlood	2215	1	1	Monocyte|ICHBlood|2215|1
+ICHSeqBatch5redo_E04	GSM4975771	CD14+ monos/macs from blood of ICH patient number 2375 on day 3 of study - replicate 2	ICHSeqBatch5redo_E04	Monocyte	ICHBlood	2375	3	2	Monocyte|ICHBlood|2375|3
+ICHSeqBatch5redo_D08	GSM4975766	CD14+ monos/macs from hematoma of ICH patient number 2375 on day 1 of study - replicate 2	ICHSeqBatch5redo_D08	Monocyte	Hematoma	2375	1	2	Monocyte|Hematoma|2375|1
+ICHSeqBatch5redo_B04	GSM4975916	CD14+ monos/macs from blood of ICH patient number 2385 on day 3 of study - replicate 1	ICHSeqBatch5redo_B04	Monocyte	ICHBlood	2385	3	1	Monocyte|ICHBlood|2385|3
+ICHSeqBatch5redo_A02	GSM4975807	CD14+ monos/macs from blood of ICH patient number 2379 on day 2 of study - replicate 1	ICHSeqBatch5redo_A02	Monocyte	ICHBlood	2379	2	1	Monocyte|ICHBlood|2379|2
+ICHSeqBatch5redo_B09	GSM4975915	CD14+ monos/macs from hematoma of ICH patient number 2385 on day 2 of study - replicate 2	ICHSeqBatch5redo_B09	Monocyte	Hematoma	2385	2	2	Monocyte|Hematoma|2385|2
+ICHSeqBatch5redo_B12	GSM4975921	CD14+ monos/macs from hematoma of ICH patient number 2385 on day 4 of study - replicate 1	ICHSeqBatch5redo_B12	Monocyte	Hematoma	2385	4	1	Monocyte|Hematoma|2385|4
+ICHSeqBatch5redo_E03	GSM4975777	CD14+ monos/macs from blood of ICH patient number 2375 on day 5 of study - replicate 1	ICHSeqBatch5redo_E03	Monocyte	ICHBlood	2375	5	1	Monocyte|ICHBlood|2375|5
+ICHSeqBatch5redo_E01	GSM4975770	CD14+ monos/macs from blood of ICH patient number 2375 on day 3 of study - replicate 1	ICHSeqBatch5redo_E01	Monocyte	ICHBlood	2375	3	1	Monocyte|ICHBlood|2375|3
+ICHSeqBatch5redo_D12	GSM4975767	CD14+ monos/macs from blood of ICH patient number 2375 on day 2 of study - replicate 1	ICHSeqBatch5redo_D12	Monocyte	ICHBlood	2375	2	1	Monocyte|ICHBlood|2375|2
+ICHSeqBatch5redo_A05	GSM4975814	CD14+ monos/macs from blood of ICH patient number 2379 on day 5 of study - replicate 1	ICHSeqBatch5redo_A05	Monocyte	ICHBlood	2379	5	1	Monocyte|ICHBlood|2379|5
+ICHSeqBatch5redo_A06	GSM4975810	CD14+ monos/macs from blood of ICH patient number 2379 on day 3 of study - replicate 2	ICHSeqBatch5redo_A06	Monocyte	ICHBlood	2379	3	2	Monocyte|ICHBlood|2379|3
+ICHSeqBatch5redo_B02	GSM4975911	CD14+ monos/macs from blood of ICH patient number 2385 on day 1 of study - replicate 1	ICHSeqBatch5redo_B02	Monocyte	ICHBlood	2385	1	1	Monocyte|ICHBlood|2385|1
+ICHSeqBatch5redo_A08	GSM4975808	CD14+ monos/macs from hematoma of ICH patient number 2379 on day 2 of study - replicate 1	ICHSeqBatch5redo_A08	Monocyte	Hematoma	2379	2	1	Monocyte|Hematoma|2379|2
+ICHSeqBatch5redo_C10	GSM4975939	CD14+ monos/macs from hematoma of ICH patient number 2215 on day 3 of study - replicate 1	ICHSeqBatch5redo_C10	Monocyte	Hematoma	2215	3	1	Monocyte|Hematoma|2215|3
+ICHSeqBatch5redo_A01	GSM4975806	CD14+ monos/macs from blood of ICH patient number 2379 on day 1 of study - replicate 1	ICHSeqBatch5redo_A01	Monocyte	ICHBlood	2379	1	1	Monocyte|ICHBlood|2379|1
+ICHSeqBatch5redo_C05	GSM4975940	CD14+ monos/macs from blood of ICH patient number 2215 on day 4 of study - replicate 1	ICHSeqBatch5redo_C05	Monocyte	ICHBlood	2215	4	1	Monocyte|ICHBlood|2215|4
+ICHSeqBatch5redo_B01	GSM4975816	CD14+ monos/macs from hematoma of ICH patient number 2379 on day 5 of study - replicate 2	ICHSeqBatch5redo_B01	Monocyte	Hematoma	2379	5	2	Monocyte|Hematoma|2379|5
+ICHSeqBatch5redo_A11	GSM4975813	CD14+ monos/macs from hematoma of ICH patient number 2379 on day 4 of study - replicate 2	ICHSeqBatch5redo_A11	Monocyte	Hematoma	2379	4	2	Monocyte|Hematoma|2379|4
+ICHSeqBatch5redo_B08	GSM4975914	CD14+ monos/macs from hematoma of ICH patient number 2385 on day 2 of study - replicate 1	ICHSeqBatch5redo_B08	Monocyte	Hematoma	2385	2	1	Monocyte|Hematoma|2385|2
+ICHSeqBatch5redo_A04	GSM4975811	CD14+ monos/macs from blood of ICH patient number 2379 on day 4 of study - replicate 1	ICHSeqBatch5redo_A04	Monocyte	ICHBlood	2379	4	1	Monocyte|ICHBlood|2379|4
+ICHSeqBatch5redo_D03	GSM4975945	CD14+ monos/macs from hematoma of ICH patient number 2215 on day 5 of study - replicate 2	ICHSeqBatch5redo_D03	Monocyte	Hematoma	2215	5	2	Monocyte|Hematoma|2215|5
+ICHSeqBatch5redo_C01	GSM4975922	CD14+ monos/macs from hematoma of ICH patient number 2385 on day 4 of study - replicate 2	ICHSeqBatch5redo_C01	Monocyte	Hematoma	2385	4	2	Monocyte|Hematoma|2385|4
+ICHSeqBatch5redo_C07	GSM4975938	CD14+ monos/macs from blood of ICH patient number 2215 on day 3 of study - replicate 2	ICHSeqBatch5redo_C07	Monocyte	ICHBlood	2215	3	2	Monocyte|ICHBlood|2215|3
+ICHSeqBatch6redo_D03	GSM4975954	CD14+ monos/macs from hematoma of ICH patient number 2287 on day 3 of study - replicate 1	ICHSeqBatch6redo_D03	Monocyte	Hematoma	2287	3	1	Monocyte|Hematoma|2287|3
+ICHSeqBatch6redo_D09	GSM4975956	CD14+ monos/macs from blood of ICH patient number 2287 on day 4 of study - replicate 1	ICHSeqBatch6redo_D09	Monocyte	ICHBlood	2287	4	1	Monocyte|ICHBlood|2287|4
+ICHSeqBatch6redo_D10	GSM4975957	CD14+ monos/macs from blood of ICH patient number 2287 on day 5 of study - replicate 1	ICHSeqBatch6redo_D10	Monocyte	ICHBlood	2287	5	1	Monocyte|ICHBlood|2287|5
+ICHSeqBatch6redo_C06	GSM4975929	CD14+ monos/macs from hematoma of ICH patient number 2129 on day 4 of study - replicate 2	ICHSeqBatch6redo_C06	Monocyte	Hematoma	2129	4	2	Monocyte|Hematoma|2129|4
+ICHSeqBatch6redo_A04	GSM4975804	CD14+ monos/macs from hematoma of ICH patient number 2046 on day 4 of study - replicate 1	ICHSeqBatch6redo_A04	Monocyte	Hematoma	2046	4	1	Monocyte|Hematoma|2046|4
+ICHSeqBatch6redo_B05	GSM4975895	CD14+ monos/macs from hematoma of ICH patient number 2421 on day 2 of study - replicate 2	ICHSeqBatch6redo_B05	Monocyte	Hematoma	2421	2	2	Monocyte|Hematoma|2421|2
+ICHSeqBatch6redo_C01	GSM4975897	CD14+ monos/macs from blood of ICH patient number 2421 on day 3 of study - replicate 2	ICHSeqBatch6redo_C01	Monocyte	ICHBlood	2421	3	2	Monocyte|ICHBlood|2421|3
+ICHSeqBatch6redo_C05	GSM4975931	CD14+ monos/macs from hematoma of ICH patient number 2129 on day 5 of study - replicate 1	ICHSeqBatch6redo_C05	Monocyte	Hematoma	2129	5	1	Monocyte|Hematoma|2129|5
+ICHSeqBatch6redo_A01	GSM4975797	CD14+ monos/macs from hematoma of ICH patient number 2046 on day 1 of study - replicate 1	ICHSeqBatch6redo_A01	Monocyte	Hematoma	2046	1	1	Monocyte|Hematoma|2046|1
+ICHSeqBatch6redo_A03	GSM4975803	CD14+ monos/macs from hematoma of ICH patient number 2046 on day 3 of study - replicate 1	ICHSeqBatch6redo_A03	Monocyte	Hematoma	2046	3	1	Monocyte|Hematoma|2046|3
+ICHSeqBatch6redo_C04	GSM4975928	CD14+ monos/macs from hematoma of ICH patient number 2129 on day 4 of study - replicate 1	ICHSeqBatch6redo_C04	Monocyte	Hematoma	2129	4	1	Monocyte|Hematoma|2129|4
+ICHSeqBatch6redo_C10	GSM4975927	CD14+ monos/macs from blood of ICH patient number 2129 on day 4 of study - replicate 1	ICHSeqBatch6redo_C10	Monocyte	ICHBlood	2129	4	1	Monocyte|ICHBlood|2129|4
+ICHSeqBatch6redo_A08	GSM4975798	CD14+ monos/macs from blood of ICH patient number 2046 on day 2 of study - replicate 1	ICHSeqBatch6redo_A08	Monocyte	ICHBlood	2046	2	1	Monocyte|ICHBlood|2046|2
+ICHSeqBatch6redo_C03	GSM4975926	CD14+ monos/macs from hematoma of ICH patient number 2129 on day 3 of study - replicate 1	ICHSeqBatch6redo_C03	Monocyte	Hematoma	2129	3	1	Monocyte|Hematoma|2129|3
+ICHSeqBatch6redo_C09	GSM4975925	CD14+ monos/macs from blood of ICH patient number 2129 on day 3 of study - replicate 1	ICHSeqBatch6redo_C09	Monocyte	ICHBlood	2129	3	1	Monocyte|ICHBlood|2129|3
+ICHSeqBatch6redo_C11	GSM4975930	CD14+ monos/macs from blood of ICH patient number 2129 on day 5 of study - replicate 1	ICHSeqBatch6redo_C11	Monocyte	ICHBlood	2129	5	1	Monocyte|ICHBlood|2129|5
+ICHSeqBatch6redo_B01	GSM4975894	CD14+ monos/macs from hematoma of ICH patient number 2421 on day 2 of study - replicate 1	ICHSeqBatch6redo_B01	Monocyte	Hematoma	2421	2	1	Monocyte|Hematoma|2421|2
+ICHSeqBatch6redo_B04	GSM4975892	CD14+ monos/macs from hematoma of ICH patient number 2421 on day 1 of study - replicate 2	ICHSeqBatch6redo_B04	Monocyte	Hematoma	2421	1	2	Monocyte|Hematoma|2421|1
+ICHSeqBatch6redo_C02	GSM4975924	CD14+ monos/macs from hematoma of ICH patient number 2129 on day 2 of study - replicate 1	ICHSeqBatch6redo_C02	Monocyte	Hematoma	2129	2	1	Monocyte|Hematoma|2129|2
+ICHSeqBatch6redo_B06	GSM4975899	CD14+ monos/macs from hematoma of ICH patient number 2421 on day 3 of study - replicate 2	ICHSeqBatch6redo_B06	Monocyte	Hematoma	2421	3	2	Monocyte|Hematoma|2421|3
+ICHSeqBatch6redo_D02	GSM4975951	CD14+ monos/macs from hematoma of ICH patient number 2287 on day 2 of study - replicate 1	ICHSeqBatch6redo_D02	Monocyte	Hematoma	2287	2	1	Monocyte|Hematoma|2287|2
+ICHSeqBatch6redo_B03	GSM4975900	CD14+ monos/macs from hematoma of ICH patient number 2421 on day 4 of study - replicate 1	ICHSeqBatch6redo_B03	Monocyte	Hematoma	2421	4	1	Monocyte|Hematoma|2421|4
+ICHSeqBatch6redo_D04	GSM4975952	CD14+ monos/macs from hematoma of ICH patient number 2287 on day 2 of study - replicate 2	ICHSeqBatch6redo_D04	Monocyte	Hematoma	2287	2	2	Monocyte|Hematoma|2287|2
+ICHSeqBatch6redo_D06	GSM4975948	CD14+ monos/macs from blood of ICH patient number 2287 on day 1 of study - replicate 1	ICHSeqBatch6redo_D06	Monocyte	ICHBlood	2287	1	1	Monocyte|ICHBlood|2287|1
+ICHSeqBatch6redo_B02	GSM4975898	CD14+ monos/macs from hematoma of ICH patient number 2421 on day 3 of study - replicate 1	ICHSeqBatch6redo_B02	Monocyte	Hematoma	2421	3	1	Monocyte|Hematoma|2421|3
+ICHSeqBatch6redo_A02	GSM4975799	CD14+ monos/macs from hematoma of ICH patient number 2046 on day 2 of study - replicate 1	ICHSeqBatch6redo_A02	Monocyte	Hematoma	2046	2	1	Monocyte|Hematoma|2046|2
+ICHSeqBatch6redo_B10	GSM4975896	CD14+ monos/macs from blood of ICH patient number 2421 on day 3 of study - replicate 1	ICHSeqBatch6redo_B10	Monocyte	ICHBlood	2421	3	1	Monocyte|ICHBlood|2421|3
+ICHSeqBatch6redo_D01	GSM4975949	CD14+ monos/macs from hematoma of ICH patient number 2287 on day 1 of study - replicate 1	ICHSeqBatch6redo_D01	Monocyte	Hematoma	2287	1	1	Monocyte|Hematoma|2287|1
+ICHSeqBatch6redo_D05	GSM4975955	CD14+ monos/macs from hematoma of ICH patient number 2287 on day 3 of study - replicate 2	ICHSeqBatch6redo_D05	Monocyte	Hematoma	2287	3	2	Monocyte|Hematoma|2287|3
+ICHSeqBatch6redo_B08	GSM4975891	CD14+ monos/macs from blood of ICH patient number 2421 on day 1 of study - replicate 1	ICHSeqBatch6redo_B08	Monocyte	ICHBlood	2421	1	1	Monocyte|ICHBlood|2421|1
+ICHSeqBatch6redo_C08	GSM4975923	CD14+ monos/macs from blood of ICH patient number 2129 on day 2 of study - replicate 1	ICHSeqBatch6redo_C08	Monocyte	ICHBlood	2129	2	1	Monocyte|ICHBlood|2129|2
+ICHSeqBatch6redo_C07	GSM4975932	CD14+ monos/macs from hematoma of ICH patient number 2129 on day 5 of study - replicate 2	ICHSeqBatch6redo_C07	Monocyte	Hematoma	2129	5	2	Monocyte|Hematoma|2129|5
+ICHSeqBatch6redo_D07	GSM4975950	CD14+ monos/macs from blood of ICH patient number 2287 on day 2 of study - replicate 1	ICHSeqBatch6redo_D07	Monocyte	ICHBlood	2287	2	1	Monocyte|ICHBlood|2287|2
+ICHSeqBatch7redo_C09	GSM4975786	CD14+ monos/macs from hematoma of ICH patient number 2480 on day 6 of study - replicate 1	ICHSeqBatch7redo_C09	Monocyte	Hematoma	2480	6	1	Monocyte|Hematoma|2480|6
+ICHSeqBatch7redo_A11	GSM4975878	CD14+ monos/macs from hematoma of ICH patient number 2133 on day 2 of study - replicate 1	ICHSeqBatch7redo_A11	Monocyte	Hematoma	2133	2	1	Monocyte|Hematoma|2133|2
+ICHSeqBatch7redo_D11	GSM4975848	CD14+ monos/macs from blood of ICH patient number 2026 on day 2 of study - replicate 1	ICHSeqBatch7redo_D11	Monocyte	ICHBlood	2026	2	1	Monocyte|ICHBlood|2026|2
+ICHSeqBatch7redo_C11	GSM4975783	CD14+ monos/macs from hematoma of ICH patient number 2480 on day 4 of study - replicate 2	ICHSeqBatch7redo_C11	Monocyte	Hematoma	2480	4	2	Monocyte|Hematoma|2480|4
+ICHSeqBatch7redo_D03	GSM4975833	CD14+ monos/macs from blood of ICH patient number 2184 on day 1 of study - replicate 2	ICHSeqBatch7redo_D03	Monocyte	ICHBlood	2184	1	2	Monocyte|ICHBlood|2184|1
+ICHSeqBatch7redo_C10	GSM4975781	CD14+ monos/macs from hematoma of ICH patient number 2480 on day 3 of study - replicate 2	ICHSeqBatch7redo_C10	Monocyte	Hematoma	2480	3	2	Monocyte|Hematoma|2480|3
+ICHSeqBatch7redo_A05	GSM4975958	CD14+ monos/macs from blood of healthy control number HC067076 on day 1 of study - replicate 1	ICHSeqBatch7redo_A05	Monocyte	ICHBlood	CD14+ monos/macs from blood of healthy control number HC067076 on day 1 of study - replicate 1	1	1	Monocyte|ICHBlood|CD14+ monos/macs from blood of healthy control number HC067076 on day 1 of study - replicate 1|1
+ICHSeqBatch7redo_D10	GSM4975847	CD14+ monos/macs from blood of ICH patient number 2026 on day 1 of study - replicate 1	ICHSeqBatch7redo_D10	Monocyte	ICHBlood	2026	1	1	Monocyte|ICHBlood|2026|1
+ICHSeqBatch7redo_E03	GSM4975853	CD14+ monos/macs from hematoma of ICH patient number 2026 on day 3 of study - replicate 1	ICHSeqBatch7redo_E03	Monocyte	Hematoma	2026	3	1	Monocyte|Hematoma|2026|3
+ICHSeqBatch7redo_C07	GSM4975782	CD14+ monos/macs from hematoma of ICH patient number 2480 on day 4 of study - replicate 1	ICHSeqBatch7redo_C07	Monocyte	Hematoma	2480	4	1	Monocyte|Hematoma|2480|4
+ICHSeqBatch7redo_D07	GSM4975838	CD14+ monos/macs from hematoma of ICH patient number 2184 on day 4 of study - replicate 2	ICHSeqBatch7redo_D07	Monocyte	Hematoma	2184	4	2	Monocyte|Hematoma|2184|4
+ICHSeqBatch7redo_D01	GSM4975835	CD14+ monos/macs from blood of ICH patient number 2184 on day 2 of study - replicate 1	ICHSeqBatch7redo_D01	Monocyte	ICHBlood	2184	2	1	Monocyte|ICHBlood|2184|2
+ICHSeqBatch7redo_B02	GSM4975877	CD14+ monos/macs from blood of ICH patient number 2133 on day 2 of study - replicate 1	ICHSeqBatch7redo_B02	Monocyte	ICHBlood	2133	2	1	Monocyte|ICHBlood|2133|2
+ICHSeqBatch7redo_E02	GSM4975850	CD14+ monos/macs from hematoma of ICH patient number 2026 on day 2 of study - replicate 1	ICHSeqBatch7redo_E02	Monocyte	Hematoma	2026	2	1	Monocyte|Hematoma|2026|2
+ICHSeqBatch7redo_C03	GSM4975784	CD14+ monos/macs from blood of ICH patient number 2480 on day 5 of study - replicate 1	ICHSeqBatch7redo_C03	Monocyte	ICHBlood	2480	5	1	Monocyte|ICHBlood|2480|5
+ICHSeqBatch7redo_A02	GSM4975959	CD14+ monos/macs from blood of healthy control number HC067371 on day 1 of study - replicate 1	ICHSeqBatch7redo_A02	Monocyte	ICHBlood	CD14+ monos/macs from blood of healthy control number HC067371 on day 1 of study - replicate 1	1	1	Monocyte|ICHBlood|CD14+ monos/macs from blood of healthy control number HC067371 on day 1 of study - replicate 1|1
+ICHSeqBatch7redo_C05	GSM4975779	CD14+ monos/macs from blood of ICH patient number 2480 on day 3 of study - replicate 2	ICHSeqBatch7redo_C05	Monocyte	ICHBlood	2480	3	2	Monocyte|ICHBlood|2480|3
+ICHSeqBatch7redo_D08	GSM4975837	CD14+ monos/macs from hematoma of ICH patient number 2184 on day 4 of study - replicate 1	ICHSeqBatch7redo_D08	Monocyte	Hematoma	2184	4	1	Monocyte|Hematoma|2184|4
+ICHSeqBatch7redo_D06	GSM4975836	CD14+ monos/macs from hematoma of ICH patient number 2184 on day 3 of study - replicate 1	ICHSeqBatch7redo_D06	Monocyte	Hematoma	2184	3	1	Monocyte|Hematoma|2184|3
+ICHSeqBatch7redo_E04	GSM4975855	CD14+ monos/macs from hematoma of ICH patient number 2026 on day 4 of study - replicate 1	ICHSeqBatch7redo_E04	Monocyte	Hematoma	2026	4	1	Monocyte|Hematoma|2026|4
+ICHSeqBatch7redo_A01	GSM4975962	CD14+ monos/macs from blood of healthy control number HC067973 on day 1 of study - replicate 1	ICHSeqBatch7redo_A01	Monocyte	ICHBlood	CD14+ monos/macs from blood of healthy control number HC067973 on day 1 of study - replicate 1	1	1	Monocyte|ICHBlood|CD14+ monos/macs from blood of healthy control number HC067973 on day 1 of study - replicate 1|1
+ICHSeqBatch7redo_E01	GSM4975854	CD14+ monos/macs from blood of ICH patient number 2026 on day 4 of study - replicate 1	ICHSeqBatch7redo_E01	Monocyte	ICHBlood	2026	4	1	Monocyte|ICHBlood|2026|4
+ICHSeqBatch7redo_D02	GSM4975839	CD14+ monos/macs from blood of ICH patient number 2184 on day 5 of study - replicate 1	ICHSeqBatch7redo_D02	Monocyte	ICHBlood	2184	5	1	Monocyte|ICHBlood|2184|5
+ICHSeqBatch7redo_C06	GSM4975780	CD14+ monos/macs from hematoma of ICH patient number 2480 on day 3 of study - replicate 1	ICHSeqBatch7redo_C06	Monocyte	Hematoma	2480	3	1	Monocyte|Hematoma|2480|3
+ICHSeqBatch7redo_E07	GSM4975851	CD14+ monos/macs from hematoma of ICH patient number 2026 on day 2 of study - replicate 2	ICHSeqBatch7redo_E07	Monocyte	Hematoma	2026	2	2	Monocyte|Hematoma|2026|2
+ICHSeqBatch7redo_C04	GSM4975785	CD14+ monos/macs from blood of ICH patient number 2480 on day 6 of study - replicate 1	ICHSeqBatch7redo_C04	Monocyte	ICHBlood	2480	6	1	Monocyte|ICHBlood|2480|6
+ICHSeqBatch7redo_B04	GSM4975881	CD14+ monos/macs from blood of ICH patient number 2133 on day 4 of study - replicate 1	ICHSeqBatch7redo_B04	Monocyte	ICHBlood	2133	4	1	Monocyte|ICHBlood|2133|4
+ICHSeqBatch7redo_B01	GSM4975874	CD14+ monos/macs from blood of ICH patient number 2133 on day 1 of study - replicate 1	ICHSeqBatch7redo_B01	Monocyte	ICHBlood	2133	1	1	Monocyte|ICHBlood|2133|1
+ICHSeqBatch7redo_D04	GSM4975834	CD14+ monos/macs from hematoma of ICH patient number 2184 on day 1 of study - replicate 1	ICHSeqBatch7redo_D04	Monocyte	Hematoma	2184	1	1	Monocyte|Hematoma|2184|1
+ICHSeqBatch7redo_A04	GSM4975961	CD14+ monos/macs from blood of healthy control number HC067724 on day 1 of study - replicate 1	ICHSeqBatch7redo_A04	Monocyte	ICHBlood	CD14+ monos/macs from blood of healthy control number HC067724 on day 1 of study - replicate 1	1	1	Monocyte|ICHBlood|CD14+ monos/macs from blood of healthy control number HC067724 on day 1 of study - replicate 1|1
+ICHSeqBatch7redo_C01	GSM4975778	CD14+ monos/macs from blood of ICH patient number 2480 on day 3 of study - replicate 1	ICHSeqBatch7redo_C01	Monocyte	ICHBlood	2480	3	1	Monocyte|ICHBlood|2480|3
+ICHSeqBatch7redo_E08	GSM4975856	CD14+ monos/macs from hematoma of ICH patient number 2026 on day 4 of study - replicate 2	ICHSeqBatch7redo_E08	Monocyte	Hematoma	2026	4	2	Monocyte|Hematoma|2026|4
+ICHSeqBatch7redo_B03	GSM4975879	CD14+ monos/macs from blood of ICH patient number 2133 on day 3 of study - replicate 1	ICHSeqBatch7redo_B03	Monocyte	ICHBlood	2133	3	1	Monocyte|ICHBlood|2133|3
+ICHSeqBatch7redo_B06	GSM4975882	CD14+ monos/macs from blood of ICH patient number 2133 on day 5 of study - replicate 1	ICHSeqBatch7redo_B06	Monocyte	ICHBlood	2133	5	1	Monocyte|ICHBlood|2133|5
+ICHSeqBatch7redo_E06	GSM4975857	CD14+ monos/macs from blood of ICH patient number 2026 on day 5 of study - replicate 1	ICHSeqBatch7redo_E06	Monocyte	ICHBlood	2026	5	1	Monocyte|ICHBlood|2026|5
+ICHbatch8_B06	GSM4975844	CD14+ monos/macs from hematoma of ICH patient number 2457 on day 3 of study - replicate 2	ICHbatch8_B06	Monocyte	Hematoma	2457	3	2	Monocyte|Hematoma|2457|3
+ICHbatch8_C04	GSM4975860	CD14+ monos/macs from hematoma of ICH patient number 2331 on day 1 of study - replicate 1	ICHbatch8_C04	Monocyte	Hematoma	2331	1	1	Monocyte|Hematoma|2331|1
+ICHbatch8_B05	GSM4975843	CD14+ monos/macs from hematoma of ICH patient number 2457 on day 3 of study - replicate 1	ICHbatch8_B05	Monocyte	Hematoma	2457	3	1	Monocyte|Hematoma|2457|3
+ICHbatch8_A12	GSM4975842	CD14+ monos/macs from blood of ICH patient number 2457 on day 3 of study - replicate 1	ICHbatch8_A12	Monocyte	ICHBlood	2457	3	1	Monocyte|ICHBlood|2457|3
+ICHbatch8_B10	GSM4975864	CD14+ monos/macs from blood of ICH patient number 2331 on day 3 of study - replicate 1	ICHbatch8_B10	Monocyte	ICHBlood	2331	3	1	Monocyte|ICHBlood|2331|3
+ICHbatch8_A10	GSM4975840	CD14+ monos/macs from blood of ICH patient number 2457 on day 1 of study - replicate 1	ICHbatch8_A10	Monocyte	ICHBlood	2457	1	1	Monocyte|ICHBlood|2457|1
+ICHbatch8_A07	GSM4975788	CD14+ monos/macs from hematoma of ICH patient number 2132 on day 1 of study - replicate 1	ICHbatch8_A07	Monocyte	Hematoma	2132	1	1	Monocyte|Hematoma|2132|1
+ICHbatch8_A08	GSM4975793	CD14+ monos/macs from hematoma of ICH patient number 2132 on day 3 of study - replicate 1	ICHbatch8_A08	Monocyte	Hematoma	2132	3	1	Monocyte|Hematoma|2132|3
+ICHbatch8_B09	GSM4975861	CD14+ monos/macs from blood of ICH patient number 2331 on day 2 of study - replicate 1	ICHbatch8_B09	Monocyte	ICHBlood	2331	2	1	Monocyte|ICHBlood|2331|2
+ICHbatch8_A01	GSM4975787	CD14+ monos/macs from blood of ICH patient number 2132 on day 1 of study - replicate 1	ICHbatch8_A01	Monocyte	ICHBlood	2132	1	1	Monocyte|ICHBlood|2132|1
+ICHbatch8_C02	GSM4975863	CD14+ monos/macs from hematoma of ICH patient number 2331 on day 2 of study - replicate 2	ICHbatch8_C02	Monocyte	Hematoma	2331	2	2	Monocyte|Hematoma|2331|2
+ICHbatch8_A02	GSM4975790	CD14+ monos/macs from blood of ICH patient number 2132 on day 2 of study - replicate 1	ICHbatch8_A02	Monocyte	ICHBlood	2132	2	1	Monocyte|ICHBlood|2132|2
+ICHbatch8_C03	GSM4975866	CD14+ monos/macs from hematoma of ICH patient number 2331 on day 3 of study - replicate 2	ICHbatch8_C03	Monocyte	Hematoma	2331	3	2	Monocyte|Hematoma|2331|3
+ICHbatch8_A05	GSM4975795	CD14+ monos/macs from blood of ICH patient number 2132 on day 5 of study - replicate 1	ICHbatch8_A05	Monocyte	ICHBlood	2132	5	1	Monocyte|ICHBlood|2132|5
+ICHbatch8_A03	GSM4975791	CD14+ monos/macs from blood of ICH patient number 2132 on day 3 of study - replicate 1	ICHbatch8_A03	Monocyte	ICHBlood	2132	3	1	Monocyte|ICHBlood|2132|3
+ICHbatch8_B04	GSM4975841	CD14+ monos/macs from hematoma of ICH patient number 2457 on day 2 of study - replicate 1	ICHbatch8_B04	Monocyte	Hematoma	2457	2	1	Monocyte|Hematoma|2457|2
+ICHbatch8_B11	GSM4975867	CD14+ monos/macs from blood of ICH patient number 2331 on day 4 of study - replicate 1	ICHbatch8_B11	Monocyte	ICHBlood	2331	4	1	Monocyte|ICHBlood|2331|4
+ICHbatch8_A04	GSM4975794	CD14+ monos/macs from blood of ICH patient number 2132 on day 4 of study - replicate 1	ICHbatch8_A04	Monocyte	ICHBlood	2132	4	1	Monocyte|ICHBlood|2132|4
+ICHbatch8_B01	GSM4975845	CD14+ monos/macs from blood of ICH patient number 2457 on day 4 of study - replicate 1	ICHbatch8_B01	Monocyte	ICHBlood	2457	4	1	Monocyte|ICHBlood|2457|4
+ICHbatch8_C06	GSM4975865	CD14+ monos/macs from hematoma of ICH patient number 2331 on day 3 of study - replicate 1	ICHbatch8_C06	Monocyte	Hematoma	2331	3	1	Monocyte|Hematoma|2331|3
+ICHbatch8_A06	GSM4975792	CD14+ monos/macs from blood of ICH patient number 2132 on day 3 of study - replicate 2	ICHbatch8_A06	Monocyte	ICHBlood	2132	3	2	Monocyte|ICHBlood|2132|3
+ICHbatch8_C05	GSM4975862	CD14+ monos/macs from hematoma of ICH patient number 2331 on day 2 of study - replicate 1	ICHbatch8_C05	Monocyte	Hematoma	2331	2	1	Monocyte|Hematoma|2331|2
+ICHbatch8_A09	GSM4975789	CD14+ monos/macs from hematoma of ICH patient number 2132 on day 1 of study - replicate 2	ICHbatch8_A09	Monocyte	Hematoma	2132	1	2	Monocyte|Hematoma|2132|1
+ICHbatch8_B08	GSM4975859	CD14+ monos/macs from blood of ICH patient number 2331 on day 1 of study - replicate 1	ICHbatch8_B08	Monocyte	ICHBlood	2331	1	1	Monocyte|ICHBlood|2331|1
+ICHbatch8_B02	GSM4975846	CD14+ monos/macs from blood of ICH patient number 2457 on day 5 of study - replicate 1	ICHbatch8_B02	Monocyte	ICHBlood	2457	5	1	Monocyte|ICHBlood|2457|5
+ICHSeqBatch9_C07	GSM4975902	CD14+ monos/macs from blood of ICH patient number 2131 on day 1 of study - replicate 1	ICHSeqBatch9_C07	Monocyte	ICHBlood	2131	1	1	Monocyte|ICHBlood|2131|1
+ICHSeqBatch9_B07	GSM4975887	CD14+ monos/macs from hematoma of ICH patient number 2404 on day 2 of study - replicate 1	ICHSeqBatch9_B07	Monocyte	Hematoma	2404	2	1	Monocyte|Hematoma|2404|2
+ICHSeqBatch9_C01	GSM4975873	CD14+ monos/macs from blood of ICH patient number 2444 on day 5 of study - replicate 2	ICHSeqBatch9_C01	Monocyte	ICHBlood	2444	5	2	Monocyte|ICHBlood|2444|5
+ICHSeqBatch9_B11	GSM4975872	CD14+ monos/macs from blood of ICH patient number 2444 on day 5 of study - replicate 1	ICHSeqBatch9_B11	Monocyte	ICHBlood	2444	5	1	Monocyte|ICHBlood|2444|5
+ICHSeqBatch9_A03	GSM4975830	CD14+ monos/macs from blood of ICH patient number 2449 on day 3 of study - replicate 1	ICHSeqBatch9_A03	Monocyte	ICHBlood	2449	3	1	Monocyte|ICHBlood|2449|3
+ICHSeqBatch9_D08	GSM4975819	CD14+ monos/macs from hematoma of ICH patient number 2145 on day 3 of study - replicate 1	ICHSeqBatch9_D08	Monocyte	Hematoma	2145	3	1	Monocyte|Hematoma|2145|3
+ICHSeqBatch9_D06	GSM4975818	CD14+ monos/macs from blood of ICH patient number 2145 on day 3 of study - replicate 2	ICHSeqBatch9_D06	Monocyte	ICHBlood	2145	3	2	Monocyte|ICHBlood|2145|3
+ICHSeqBatch9_D03	GSM4975908	CD14+ monos/macs from hematoma of ICH patient number 2131 on day 3 of study - replicate 1	ICHSeqBatch9_D03	Monocyte	Hematoma	2131	3	1	Monocyte|Hematoma|2131|3
+ICHSeqBatch9_D02	GSM4975904	CD14+ monos/macs from hematoma of ICH patient number 2131 on day 1 of study - replicate 2	ICHSeqBatch9_D02	Monocyte	Hematoma	2131	1	2	Monocyte|Hematoma|2131|1
+ICHSeqBatch9_C12	GSM4975906	CD14+ monos/macs from blood of ICH patient number 2131 on day 2 of study - replicate 2	ICHSeqBatch9_C12	Monocyte	ICHBlood	2131	2	2	Monocyte|ICHBlood|2131|2
+ICHSeqBatch9_B03	GSM4975890	CD14+ monos/macs from blood of ICH patient number 2404 on day 4 of study - replicate 1	ICHSeqBatch9_B03	Monocyte	ICHBlood	2404	4	1	Monocyte|ICHBlood|2404|4
+ICHSeqBatch9_B12	GSM4975869	CD14+ monos/macs from blood of ICH patient number 2444 on day 3 of study - replicate 2	ICHSeqBatch9_B12	Monocyte	ICHBlood	2444	3	2	Monocyte|ICHBlood|2444|3
+ICHSeqBatch9_D07	GSM4975822	CD14+ monos/macs from blood of ICH patient number 2145 on day 4 of study - replicate 2	ICHSeqBatch9_D07	Monocyte	ICHBlood	2145	4	2	Monocyte|ICHBlood|2145|4
+ICHSeqBatch9_B02	GSM4975889	CD14+ monos/macs from blood of ICH patient number 2404 on day 3 of study - replicate 1	ICHSeqBatch9_B02	Monocyte	ICHBlood	2404	3	1	Monocyte|ICHBlood|2404|3
+ICHSeqBatch9_D11	GSM4975824	CD14+ monos/macs from hematoma of ICH patient number 2145 on day 4 of study - replicate 2	ICHSeqBatch9_D11	Monocyte	Hematoma	2145	4	2	Monocyte|Hematoma|2145|4
+ICHSeqBatch9_A08	GSM4975828	CD14+ monos/macs from hematoma of ICH patient number 2449 on day 2 of study - replicate 1	ICHSeqBatch9_A08	Monocyte	Hematoma	2449	2	1	Monocyte|Hematoma|2449|2
+ICHSeqBatch9_D10	GSM4975820	CD14+ monos/macs from hematoma of ICH patient number 2145 on day 3 of study - replicate 2	ICHSeqBatch9_D10	Monocyte	Hematoma	2145	3	2	Monocyte|Hematoma|2145|3
+ICHSeqBatch9_B09	GSM4975868	CD14+ monos/macs from blood of ICH patient number 2444 on day 3 of study - replicate 1	ICHSeqBatch9_B09	Monocyte	ICHBlood	2444	3	1	Monocyte|ICHBlood|2444|3
+ICHSeqBatch9_C02	GSM4975870	CD14+ monos/macs from hematoma of ICH patient number 2444 on day 3 of study - replicate 1	ICHSeqBatch9_C02	Monocyte	Hematoma	2444	3	1	Monocyte|Hematoma|2444|3
+ICHSeqBatch9_D01	GSM4975903	CD14+ monos/macs from hematoma of ICH patient number 2131 on day 1 of study - replicate 1	ICHSeqBatch9_D01	Monocyte	Hematoma	2131	1	1	Monocyte|Hematoma|2131|1
+ICHSeqBatch9_B01	GSM4975886	CD14+ monos/macs from blood of ICH patient number 2404 on day 2 of study - replicate 1	ICHSeqBatch9_B01	Monocyte	ICHBlood	2404	2	1	Monocyte|ICHBlood|2404|2
+ICHSeqBatch9_C08	GSM4975905	CD14+ monos/macs from blood of ICH patient number 2131 on day 2 of study - replicate 1	ICHSeqBatch9_C08	Monocyte	ICHBlood	2131	2	1	Monocyte|ICHBlood|2131|2
+ICHSeqBatch9_B10	GSM4975871	CD14+ monos/macs from blood of ICH patient number 2444 on day 4 of study - replicate 1	ICHSeqBatch9_B10	Monocyte	ICHBlood	2444	4	1	Monocyte|ICHBlood|2444|4
+ICHSeqBatch9_A02	GSM4975826	CD14+ monos/macs from blood of ICH patient number 2449 on day 2 of study - replicate 1	ICHSeqBatch9_A02	Monocyte	ICHBlood	2449	2	1	Monocyte|ICHBlood|2449|2
+ICHSeqBatch9_B08	GSM4975888	CD14+ monos/macs from hematoma of ICH patient number 2404 on day 2 of study - replicate 2	ICHSeqBatch9_B08	Monocyte	Hematoma	2404	2	2	Monocyte|Hematoma|2404|2
+ICHSeqBatch9_D09	GSM4975823	CD14+ monos/macs from hematoma of ICH patient number 2145 on day 4 of study - replicate 1	ICHSeqBatch9_D09	Monocyte	Hematoma	2145	4	1	Monocyte|Hematoma|2145|4
+ICHSeqBatch9_C04	GSM4975947	CD14+ monos/macs from blood of ICH patient number 2236 on day 1 of study - replicate 2	ICHSeqBatch9_C04	Monocyte	ICHBlood	2236	1	2	Monocyte|ICHBlood|2236|1
+ICHSeqBatch9_C10	GSM4975909	CD14+ monos/macs from blood of ICH patient number 2131 on day 4 of study - replicate 1	ICHSeqBatch9_C10	Monocyte	ICHBlood	2131	4	1	Monocyte|ICHBlood|2131|4
+ICHSeqBatch9_C11	GSM4975910	CD14+ monos/macs from blood of ICH patient number 2131 on day 5 of study - replicate 1	ICHSeqBatch9_C11	Monocyte	ICHBlood	2131	5	1	Monocyte|ICHBlood|2131|5
+ICHSeqBatch9_A06	GSM4975825	CD14+ monos/macs from blood of ICH patient number 2449 on day 1 of study - replicate 2	ICHSeqBatch9_A06	Monocyte	ICHBlood	2449	1	2	Monocyte|ICHBlood|2449|1
+ICHSeqBatch9_C09	GSM4975907	CD14+ monos/macs from blood of ICH patient number 2131 on day 3 of study - replicate 1	ICHSeqBatch9_C09	Monocyte	ICHBlood	2131	3	1	Monocyte|ICHBlood|2131|3
+ICHSeqBatch9_C03	GSM4975946	CD14+ monos/macs from blood of ICH patient number 2236 on day 1 of study - replicate 1	ICHSeqBatch9_C03	Monocyte	ICHBlood	2236	1	1	Monocyte|ICHBlood|2236|1
+ICHSeqBatch9_A09	GSM4975829	CD14+ monos/macs from hematoma of ICH patient number 2449 on day 2 of study - replicate 2	ICHSeqBatch9_A09	Monocyte	Hematoma	2449	2	2	Monocyte|Hematoma|2449|2
+ICHSeqBatch9_D04	GSM4975817	CD14+ monos/macs from blood of ICH patient number 2145 on day 3 of study - replicate 1	ICHSeqBatch9_D04	Monocyte	ICHBlood	2145	3	1	Monocyte|ICHBlood|2145|3
+ICHSeqBatch9_A07	GSM4975827	CD14+ monos/macs from blood of ICH patient number 2449 on day 2 of study - replicate 2	ICHSeqBatch9_A07	Monocyte	ICHBlood	2449	2	2	Monocyte|ICHBlood|2449|2
+ICHSeqBatch9_A04	GSM4975831	CD14+ monos/macs from blood of ICH patient number 2449 on day 4 of study - replicate 1	ICHSeqBatch9_A04	Monocyte	ICHBlood	2449	4	1	Monocyte|ICHBlood|2449|4
+ICHSeqBatch9_A12	GSM4975883	CD14+ monos/macs from blood of ICH patient number 2404 on day 1 of study - replicate 1	ICHSeqBatch9_A12	Monocyte	ICHBlood	2404	1	1	Monocyte|ICHBlood|2404|1
+ICHSeqBatch6redo_A09	GSM4975801	CD14+ monos/macs from blood of ICH patient number 2046 on day 3 of study - replicate 1	ICHSeqBatch6redo_A09	Monocyte	ICHBlood	2046	3	1	Monocyte|ICHBlood|2046|3
+ICHSeqBatch9_B05	GSM4975884	CD14+ monos/macs from blood of ICH patient number 2404 on day 1 of study - replicate 2	ICHSeqBatch9_B05	Monocyte	ICHBlood	2404	1	2	Monocyte|ICHBlood|2404|1
+ICHSeqBatch6redo_A07	GSM4975796	CD14+ monos/macs from blood of ICH patient number 2046 on day 1 of study - replicate 1	ICHSeqBatch6redo_A07	Monocyte	ICHBlood	2046	1	1	Monocyte|ICHBlood|2046|1
+ICHSeqBatch6redo_B09	GSM4975893	CD14+ monos/macs from blood of ICH patient number 2421 on day 2 of study - replicate 1	ICHSeqBatch6redo_B09	Monocyte	ICHBlood	2421	2	1	Monocyte|ICHBlood|2421|2
+ICHSeqBatch9_A05	GSM4975832	CD14+ monos/macs from blood of ICH patient number 2449 on day 5 of study - replicate 1	ICHSeqBatch9_A05	Monocyte	ICHBlood	2449	5	1	Monocyte|ICHBlood|2449|5
+ICHSeqBatch6redo_A05	GSM4975800	CD14+ monos/macs from hematoma of ICH patient number 2046 on day 2 of study - replicate 2	ICHSeqBatch6redo_A05	Monocyte	Hematoma	2046	2	2	Monocyte|Hematoma|2046|2
+ICHSeqBatch6redo_A11	GSM4975802	CD14+ monos/macs from blood of ICH patient number 2046 on day 3 of study - replicate 2	ICHSeqBatch6redo_A11	Monocyte	ICHBlood	2046	3	2	Monocyte|ICHBlood|2046|3
+ICHSeqBatch9_D05	GSM4975821	CD14+ monos/macs from blood of ICH patient number 2145 on day 4 of study - replicate 1	ICHSeqBatch9_D05	Monocyte	ICHBlood	2145	4	1	Monocyte|ICHBlood|2145|4
+ICHSeqBatch6redo_B07	GSM4975901	CD14+ monos/macs from hematoma of ICH patient number 2421 on day 4 of study - replicate 2	ICHSeqBatch6redo_B07	Monocyte	Hematoma	2421	4	2	Monocyte|Hematoma|2421|4
+ICHSeqBatch9_B06	GSM4975885	CD14+ monos/macs from hematoma of ICH patient number 2404 on day 1 of study - replicate 1	ICHSeqBatch9_B06	Monocyte	Hematoma	2404	1	1	Monocyte|Hematoma|2404|1
+ICHSeqBatch6redo_A06	GSM4975805	CD14+ monos/macs from hematoma of ICH patient number 2046 on day 4 of study - replicate 2	ICHSeqBatch6redo_A06	Monocyte	Hematoma	2046	4	2	Monocyte|Hematoma|2046|4
+ICHSeqBatch7redo_B05	GSM4975880	CD14+ monos/macs from blood of ICH patient number 2133 on day 3 of study - replicate 2	ICHSeqBatch7redo_B05	Monocyte	ICHBlood	2133	3	2	Monocyte|ICHBlood|2133|3
+ICHSeqBatch7redo_A09	GSM4975875	CD14+ monos/macs from hematoma of ICH patient number 2133 on day 1 of study - replicate 1	ICHSeqBatch7redo_A09	Monocyte	Hematoma	2133	1	1	Monocyte|Hematoma|2133|1
+ICHSeqBatch7redo_A10	GSM4975876	CD14+ monos/macs from hematoma of ICH patient number 2133 on day 1 of study - replicate 2	ICHSeqBatch7redo_A10	Monocyte	Hematoma	2133	1	2	Monocyte|Hematoma|2133|1
+ICHSeqBatch7redo_A08	GSM4975858	CD14+ monos/macs from blood of ICH patient number 2026 on day 5 of study - replicate 2	ICHSeqBatch7redo_A08	Monocyte	ICHBlood	2026	5	2	Monocyte|ICHBlood|2026|5
+ICHSeqBatch7redo_D12	GSM4975852	CD14+ monos/macs from blood of ICH patient number 2026 on day 3 of study - replicate 1	ICHSeqBatch7redo_D12	Monocyte	ICHBlood	2026	3	1	Monocyte|ICHBlood|2026|3
+ICHSeqBatch7redo_A07	GSM4975849	CD14+ monos/macs from blood of ICH patient number 2026 on day 2 of study - replicate 2	ICHSeqBatch7redo_A07	Monocyte	ICHBlood	2026	2	2	Monocyte|ICHBlood|2026|2
+ICHSeqBatch7redo_A06	GSM4975960	CD14+ monos/macs from blood of healthy control number HC067591 on day 1 of study - replicate 1	ICHSeqBatch7redo_A06	Monocyte	ICHBlood	CD14+ monos/macs from blood of healthy control number HC067591 on day 1 of study - replicate 1	1	1	Monocyte|ICHBlood|CD14+ monos/macs from blood of healthy control number HC067591 on day 1 of study - replicate 1|1
+ICHSeqBatch6redo_D08	GSM4975953	CD14+ monos/macs from blood of ICH patient number 2287 on day 3 of study - replicate 1	ICHSeqBatch6redo_D08	Monocyte	ICHBlood	2287	3	1	Monocyte|ICHBlood|2287|3
+ICHSeqBatch1g_B11	GSM4976115	Neutrophils from hematoma of ICH patient number 2385 on day 4 of study - replicate 1	ICHSeqBatch1g_B11	Neutrophil	Hematoma	2385	4	1	Neutrophil|Hematoma|2385|4
+ICHSeqBatch1g_A05	GSM4976007	Neutrophils from blood of ICH patient number 2379 on day 5 of study - replicate 1	ICHSeqBatch1g_A05	Neutrophil	ICHBlood	2379	5	1	Neutrophil|ICHBlood|2379|5
+ICHSeqBatch1g_B08	GSM4976110	Neutrophils from hematoma of ICH patient number 2385 on day 2 of study - replicate 2	ICHSeqBatch1g_B08	Neutrophil	Hematoma	2385	2	2	Neutrophil|Hematoma|2385|2
+ICHSeqBatch1g_B01	GSM4976000	Neutrophils from hematoma of ICH patient number 2379 on day 2 of study - replicate 2	ICHSeqBatch1g_B01	Neutrophil	Hematoma	2379	2	2	Neutrophil|Hematoma|2379|2
+ICHSeqBatch1g_D01	GSM4976137	Neutrophils from hematoma of ICH patient number 2215 on day 3 of study - replicate 1	ICHSeqBatch1g_D01	Neutrophil	Hematoma	2215	3	1	Neutrophil|Hematoma|2215|3
+ICHSeqBatch1g_B07	GSM4976109	Neutrophils from hematoma of ICH patient number 2385 on day 2 of study - replicate 1	ICHSeqBatch1g_B07	Neutrophil	Hematoma	2385	2	1	Neutrophil|Hematoma|2385|2
+ICHSeqBatch1g_B05	GSM4976105	Neutrophils from hematoma of ICH patient number 2385 on day 1 of study - replicate 1	ICHSeqBatch1g_B05	Neutrophil	Hematoma	2385	1	1	Neutrophil|Hematoma|2385|1
+ICHSeqBatch1g_B06	GSM4976106	Neutrophils from hematoma of ICH patient number 2385 on day 1 of study - replicate 2	ICHSeqBatch1g_B06	Neutrophil	Hematoma	2385	1	2	Neutrophil|Hematoma|2385|1
+ICHSeqBatch1g_A06	GSM4976002	Neutrophils from blood of ICH patient number 2379 on day 3 of study - replicate 2	ICHSeqBatch1g_A06	Neutrophil	ICHBlood	2379	3	2	Neutrophil|ICHBlood|2379|3
+ICHSeqBatch1g_D04	GSM4976132	Neutrophils from hematoma of ICH patient number 2215 on day 1 of study - replicate 2	ICHSeqBatch1g_D04	Neutrophil	Hematoma	2215	1	2	Neutrophil|Hematoma|2215|1
+ICHSeqBatch1g_C04	GSM4976114	Neutrophils from blood of ICH patient number 2385 on day 4 of study - replicate 1	ICHSeqBatch1g_C04	Neutrophil	ICHBlood	2385	4	1	Neutrophil|ICHBlood|2385|4
+ICHSeqBatch1g_A01	GSM4975996	Neutrophils from blood of ICH patient number 2379 on day 1 of study - replicate 1	ICHSeqBatch1g_A01	Neutrophil	ICHBlood	2379	1	1	Neutrophil|ICHBlood|2379|1
+ICHSeqBatch1g_C12	GSM4976135	Neutrophils from hematoma of ICH patient number 2215 on day 2 of study - replicate 1	ICHSeqBatch1g_C12	Neutrophil	Hematoma	2215	2	1	Neutrophil|Hematoma|2215|2
+ICHSeqBatch1g_A02	GSM4975997	Neutrophils from blood of ICH patient number 2379 on day 2 of study - replicate 1	ICHSeqBatch1g_A02	Neutrophil	ICHBlood	2379	2	1	Neutrophil|ICHBlood|2379|2
+ICHSeqBatch1g_A12	GSM4976009	Neutrophils from hematoma of ICH patient number 2379 on day 5 of study - replicate 2	ICHSeqBatch1g_A12	Neutrophil	Hematoma	2379	5	2	Neutrophil|Hematoma|2379|5
+ICHSeqBatch1g_A11	GSM4976004	Neutrophils from hematoma of ICH patient number 2379 on day 3 of study - replicate 2	ICHSeqBatch1g_A11	Neutrophil	Hematoma	2379	3	2	Neutrophil|Hematoma|2379|3
+ICHSeqBatch1g_D05	GSM4976138	Neutrophils from hematoma of ICH patient number 2215 on day 3 of study - replicate 2	ICHSeqBatch1g_D05	Neutrophil	Hematoma	2215	3	2	Neutrophil|Hematoma|2215|3
+ICHSeqBatch1g_A10	GSM4976003	Neutrophils from hematoma of ICH patient number 2379 on day 3 of study - replicate 1	ICHSeqBatch1g_A10	Neutrophil	Hematoma	2379	3	1	Neutrophil|Hematoma|2379|3
+ICHSeqBatch1g_A07	GSM4975998	Neutrophils from blood of ICH patient number 2379 on day 2 of study - replicate 2	ICHSeqBatch1g_A07	Neutrophil	ICHBlood	2379	2	2	Neutrophil|ICHBlood|2379|2
+ICHSeqBatch1g_D03	GSM4976142	Neutrophils from hematoma of ICH patient number 2215 on day 5 of study - replicate 1	ICHSeqBatch1g_D03	Neutrophil	Hematoma	2215	5	1	Neutrophil|Hematoma|2215|5
+ICHSeqBatch1g_A08	GSM4976006	Neutrophils from hematoma of ICH patient number 2379 on day 4 of study - replicate 1	ICHSeqBatch1g_A08	Neutrophil	Hematoma	2379	4	1	Neutrophil|Hematoma|2379|4
+ICHSeqBatch1g_B12	GSM4976116	Neutrophils from hematoma of ICH patient number 2385 on day 4 of study - replicate 2	ICHSeqBatch1g_B12	Neutrophil	Hematoma	2385	4	2	Neutrophil|Hematoma|2385|4
+ICHSeqBatch1g_C02	GSM4976108	Neutrophils from blood of ICH patient number 2385 on day 2 of study - replicate 2	ICHSeqBatch1g_C02	Neutrophil	ICHBlood	2385	2	2	Neutrophil|ICHBlood|2385|2
+ICHSeqBatch1g_C11	GSM4976131	Neutrophils from hematoma of ICH patient number 2215 on day 1 of study - replicate 1	ICHSeqBatch1g_C11	Neutrophil	Hematoma	2215	1	1	Neutrophil|Hematoma|2215|1
+ICHSeqBatch1g_B10	GSM4976113	Neutrophils from hematoma of ICH patient number 2385 on day 3 of study - replicate 2	ICHSeqBatch1g_B10	Neutrophil	Hematoma	2385	3	2	Neutrophil|Hematoma|2385|3
+ICHSeqBatch1g_B04	GSM4976008	Neutrophils from hematoma of ICH patient number 2379 on day 5 of study - replicate 1	ICHSeqBatch1g_B04	Neutrophil	Hematoma	2379	5	1	Neutrophil|Hematoma|2379|5
+ICHSeqBatch1g_C08	GSM4976139	Neutrophils from blood of ICH patient number 2215 on day 4 of study - replicate 1	ICHSeqBatch1g_C08	Neutrophil	ICHBlood	2215	4	1	Neutrophil|ICHBlood|2215|4
+ICHSeqBatch1g_A03	GSM4976001	Neutrophils from blood of ICH patient number 2379 on day 3 of study - replicate 1	ICHSeqBatch1g_A03	Neutrophil	ICHBlood	2379	3	1	Neutrophil|ICHBlood|2379|3
+ICHSeqBatch1g_B02	GSM4975999	Neutrophils from hematoma of ICH patient number 2379 on day 2 of study - replicate 1	ICHSeqBatch1g_B02	Neutrophil	Hematoma	2379	2	1	Neutrophil|Hematoma|2379|2
+ICHSeqBatch1g_C09	GSM4976141	Neutrophils from blood of ICH patient number 2215 on day 5 of study - replicate 1	ICHSeqBatch1g_C09	Neutrophil	ICHBlood	2215	5	1	Neutrophil|ICHBlood|2215|5
+ICHSeqBatch1g_C03	GSM4976111	Neutrophils from blood of ICH patient number 2385 on day 3 of study - replicate 2	ICHSeqBatch1g_C03	Neutrophil	ICHBlood	2385	3	2	Neutrophil|ICHBlood|2385|3
+ICHSeqBatch1g_C01	GSM4976107	Neutrophils from blood of ICH patient number 2385 on day 2 of study - replicate 1	ICHSeqBatch1g_C01	Neutrophil	ICHBlood	2385	2	1	Neutrophil|ICHBlood|2385|2
+ICHSeqBatch1g_C05	GSM4976130	Neutrophils from blood of ICH patient number 2215 on day 1 of study - replicate 1	ICHSeqBatch1g_C05	Neutrophil	ICHBlood	2215	1	1	Neutrophil|ICHBlood|2215|1
+ICHSeqBatch1g_D06	GSM4976140	Neutrophils from hematoma of ICH patient number 2215 on day 4 of study - replicate 2	ICHSeqBatch1g_D06	Neutrophil	Hematoma	2215	4	2	Neutrophil|Hematoma|2215|4
+ICHSeqBatch1g_B09	GSM4976112	Neutrophils from hematoma of ICH patient number 2385 on day 3 of study - replicate 1	ICHSeqBatch1g_B09	Neutrophil	Hematoma	2385	3	1	Neutrophil|Hematoma|2385|3
+ICHSeqBatch1g_C10	GSM4976134	Neutrophils from blood of ICH patient number 2215 on day 2 of study - replicate 2	ICHSeqBatch1g_C10	Neutrophil	ICHBlood	2215	2	2	Neutrophil|ICHBlood|2215|2
+ICHSeqBatch1g_C06	GSM4976133	Neutrophils from blood of ICH patient number 2215 on day 2 of study - replicate 1	ICHSeqBatch1g_C06	Neutrophil	ICHBlood	2215	2	1	Neutrophil|ICHBlood|2215|2
+ICHSeqBatch1g_A04	GSM4976005	Neutrophils from blood of ICH patient number 2379 on day 4 of study - replicate 1	ICHSeqBatch1g_A04	Neutrophil	ICHBlood	2379	4	1	Neutrophil|ICHBlood|2379|4
+ICHSeqBatch1g_D07	GSM4976143	Neutrophils from hematoma of ICH patient number 2215 on day 5 of study - replicate 2	ICHSeqBatch1g_D07	Neutrophil	Hematoma	2215	5	2	Neutrophil|Hematoma|2215|5
+ICHSeqBatch1g_C07	GSM4976136	Neutrophils from blood of ICH patient number 2215 on day 3 of study - replicate 1	ICHSeqBatch1g_C07	Neutrophil	ICHBlood	2215	3	1	Neutrophil|ICHBlood|2215|3
+ICHseqBatch2g_B11	GSM4976090	Neutrophils from hematoma of ICH patient number 2421 on day 3 of study - replicate 2	ICHseqBatch2g_B11	Neutrophil	Hematoma	2421	3	2	Neutrophil|Hematoma|2421|3
+ICHseqBatch2g_A05	GSM4975969	Neutrophils from hematoma of ICH patient number 2375 on day 3 of study - replicate 1	ICHseqBatch2g_A05	Neutrophil	Hematoma	2375	3	1	Neutrophil|Hematoma|2375|3
+ICHseqBatch2g_B05	GSM4976082	Neutrophils from hematoma of ICH patient number 2421 on day 1 of study - replicate 1	ICHseqBatch2g_B05	Neutrophil	Hematoma	2421	1	1	Neutrophil|Hematoma|2421|1
+ICHseqBatch2g_D04	GSM4976117	Neutrophils from blood of ICH patient number 2129 on day 2 of study - replicate 1	ICHseqBatch2g_D04	Neutrophil	ICHBlood	2129	2	1	Neutrophil|ICHBlood|2129|2
+ICHseqBatch2g_C10	GSM4976122	Neutrophils from hematoma of ICH patient number 2129 on day 3 of study - replicate 1	ICHseqBatch2g_C10	Neutrophil	Hematoma	2129	3	1	Neutrophil|Hematoma|2129|3
+ICHseqBatch2g_D06	GSM4976124	Neutrophils from blood of ICH patient number 2129 on day 4 of study - replicate 1	ICHseqBatch2g_D06	Neutrophil	ICHBlood	2129	4	1	Neutrophil|ICHBlood|2129|4
+ICHseqBatch2g_A06	GSM4975970	Neutrophils from hematoma of ICH patient number 2375 on day 3 of study - replicate 2	ICHseqBatch2g_A06	Neutrophil	Hematoma	2375	3	2	Neutrophil|Hematoma|2375|3
+ICHseqBatch2g_B01	GSM4975971	Neutrophils from blood of ICH patient number 2375 on day 4 of study - replicate 1	ICHseqBatch2g_B01	Neutrophil	ICHBlood	2375	4	1	Neutrophil|ICHBlood|2375|4
+ICHseqBatch2g_C07	GSM4976092	Neutrophils from blood of ICH patient number 2421 on day 4 of study - replicate 2	ICHseqBatch2g_C07	Neutrophil	ICHBlood	2421	4	2	Neutrophil|ICHBlood|2421|4
+ICHseqBatch2g_B03	GSM4975968	Neutrophils from blood of ICH patient number 2375 on day 3 of study - replicate 2	ICHseqBatch2g_B03	Neutrophil	ICHBlood	2375	3	2	Neutrophil|ICHBlood|2375|3
+ICHseqBatch2g_B02	GSM4975975	Neutrophils from blood of ICH patient number 2375 on day 5 of study - replicate 1	ICHseqBatch2g_B02	Neutrophil	ICHBlood	2375	5	1	Neutrophil|ICHBlood|2375|5
+ICHseqBatch2g_C05	GSM4976094	Neutrophils from blood of ICH patient number 2421 on day 5 of study - replicate 1	ICHseqBatch2g_C05	Neutrophil	ICHBlood	2421	5	1	Neutrophil|ICHBlood|2421|5
+ICHseqBatch2g_C01	GSM4976081	Neutrophils from blood of ICH patient number 2421 on day 1 of study - replicate 1	ICHseqBatch2g_C01	Neutrophil	ICHBlood	2421	1	1	Neutrophil|ICHBlood|2421|1
+ICHseqBatch2g_D02	GSM4976128	Neutrophils from hematoma of ICH patient number 2129 on day 5 of study - replicate 1	ICHseqBatch2g_D02	Neutrophil	Hematoma	2129	5	1	Neutrophil|Hematoma|2129|5
+ICHseqBatch2g_B09	GSM4976083	Neutrophils from hematoma of ICH patient number 2421 on day 1 of study - replicate 2	ICHseqBatch2g_B09	Neutrophil	Hematoma	2421	1	2	Neutrophil|Hematoma|2421|1
+ICHseqBatch2g_C09	GSM4976119	Neutrophils from hematoma of ICH patient number 2129 on day 2 of study - replicate 2	ICHseqBatch2g_C09	Neutrophil	Hematoma	2129	2	2	Neutrophil|Hematoma|2129|2
+ICHseqBatch2g_D05	GSM4976120	Neutrophils from blood of ICH patient number 2129 on day 3 of study - replicate 1	ICHseqBatch2g_D05	Neutrophil	ICHBlood	2129	3	1	Neutrophil|ICHBlood|2129|3
+ICHseqBatch2g_C03	GSM4976087	Neutrophils from blood of ICH patient number 2421 on day 3 of study - replicate 1	ICHseqBatch2g_C03	Neutrophil	ICHBlood	2421	3	1	Neutrophil|ICHBlood|2421|3
+ICHseqBatch2g_B04	GSM4975972	Neutrophils from blood of ICH patient number 2375 on day 4 of study - replicate 2	ICHseqBatch2g_B04	Neutrophil	ICHBlood	2375	4	2	Neutrophil|ICHBlood|2375|4
+ICHseqBatch2g_C02	GSM4976084	Neutrophils from blood of ICH patient number 2421 on day 2 of study - replicate 1	ICHseqBatch2g_C02	Neutrophil	ICHBlood	2421	2	1	Neutrophil|ICHBlood|2421|2
+ICHseqBatch2g_B07	GSM4976089	Neutrophils from hematoma of ICH patient number 2421 on day 3 of study - replicate 1	ICHseqBatch2g_B07	Neutrophil	Hematoma	2421	3	1	Neutrophil|Hematoma|2421|3
+ICHseqBatch2g_B12	GSM4976093	Neutrophils from hematoma of ICH patient number 2421 on day 4 of study - replicate 2	ICHseqBatch2g_B12	Neutrophil	Hematoma	2421	4	2	Neutrophil|Hematoma|2421|4
+ICHseqBatch2g_C06	GSM4976088	Neutrophils from blood of ICH patient number 2421 on day 3 of study - replicate 2	ICHseqBatch2g_C06	Neutrophil	ICHBlood	2421	3	2	Neutrophil|ICHBlood|2421|3
+ICHseqBatch2g_A02	GSM4975963	Neutrophils from hematoma of ICH patient number 2375 on day 1 of study - replicate 2	ICHseqBatch2g_A02	Neutrophil	Hematoma	2375	1	2	Neutrophil|Hematoma|2375|1
+ICHseqBatch2g_A11	GSM4975964	Neutrophils from blood of ICH patient number 2375 on day 2 of study - replicate 1	ICHseqBatch2g_A11	Neutrophil	ICHBlood	2375	2	1	Neutrophil|ICHBlood|2375|2
+ICHseqBatch2g_C12	GSM4976125	Neutrophils from hematoma of ICH patient number 2129 on day 4 of study - replicate 1	ICHseqBatch2g_C12	Neutrophil	Hematoma	2129	4	1	Neutrophil|Hematoma|2129|4
+ICHseqBatch2g_B10	GSM4976086	Neutrophils from hematoma of ICH patient number 2421 on day 2 of study - replicate 2	ICHseqBatch2g_B10	Neutrophil	Hematoma	2421	2	2	Neutrophil|Hematoma|2421|2
+ICHseqBatch2g_A04	GSM4975966	Neutrophils from hematoma of ICH patient number 2375 on day 2 of study - replicate 2	ICHseqBatch2g_A04	Neutrophil	Hematoma	2375	2	2	Neutrophil|Hematoma|2375|2
+ICHseqBatch2g_A03	GSM4975965	Neutrophils from hematoma of ICH patient number 2375 on day 2 of study - replicate 1	ICHseqBatch2g_A03	Neutrophil	Hematoma	2375	2	1	Neutrophil|Hematoma|2375|2
+ICHseqBatch2g_C08	GSM4976118	Neutrophils from hematoma of ICH patient number 2129 on day 2 of study - replicate 1	ICHseqBatch2g_C08	Neutrophil	Hematoma	2129	2	1	Neutrophil|Hematoma|2129|2
+ICHseqBatch2g_D03	GSM4976129	Neutrophils from hematoma of ICH patient number 2129 on day 5 of study - replicate 2	ICHseqBatch2g_D03	Neutrophil	Hematoma	2129	5	2	Neutrophil|Hematoma|2129|5
+ICHseqBatch2g_A10	GSM4975974	Neutrophils from hematoma of ICH patient number 2375 on day 4 of study - replicate 2	ICHseqBatch2g_A10	Neutrophil	Hematoma	2375	4	2	Neutrophil|Hematoma|2375|4
+ICHseqBatch2g_A12	GSM4975967	Neutrophils from blood of ICH patient number 2375 on day 3 of study - replicate 1	ICHseqBatch2g_A12	Neutrophil	ICHBlood	2375	3	1	Neutrophil|ICHBlood|2375|3
+ICHseqBatch2g_B06	GSM4976085	Neutrophils from hematoma of ICH patient number 2421 on day 2 of study - replicate 1	ICHseqBatch2g_B06	Neutrophil	Hematoma	2421	2	1	Neutrophil|Hematoma|2421|2
+ICHseqBatch2g_C04	GSM4976091	Neutrophils from blood of ICH patient number 2421 on day 4 of study - replicate 1	ICHseqBatch2g_C04	Neutrophil	ICHBlood	2421	4	1	Neutrophil|ICHBlood|2421|4
+ICHseqBatch2g_A07	GSM4975973	Neutrophils from hematoma of ICH patient number 2375 on day 4 of study - replicate 1	ICHseqBatch2g_A07	Neutrophil	Hematoma	2375	4	1	Neutrophil|Hematoma|2375|4
+ICHseqBatch2g_D07	GSM4976127	Neutrophils from blood of ICH patient number 2129 on day 5 of study - replicate 1	ICHseqBatch2g_D07	Neutrophil	ICHBlood	2129	5	1	Neutrophil|ICHBlood|2129|5
+ICHseqBatch2g_C11	GSM4976123	Neutrophils from hematoma of ICH patient number 2129 on day 3 of study - replicate 2	ICHseqBatch2g_C11	Neutrophil	Hematoma	2129	3	2	Neutrophil|Hematoma|2129|3
+ICHseqBatch3g_A10	GSM4976020	Neutrophils from blood of ICH patient number 2184 on day 1 of study - replicate 2	ICHseqBatch3g_A10	Neutrophil	ICHBlood	2184	1	2	Neutrophil|ICHBlood|2184|1
+ICHseqBatch3g_C05	GSM4976048	Neutrophils from hematoma of ICH patient number 2026 on day 3 of study - replicate 2	ICHseqBatch3g_C05	Neutrophil	Hematoma	2026	3	2	Neutrophil|Hematoma|2026|3
+ICHseqBatch3g_B06	GSM4975983	Neutrophils from blood of ICH patient number 2046 on day 1 of study - replicate 1	ICHseqBatch3g_B06	Neutrophil	ICHBlood	2046	1	1	Neutrophil|ICHBlood|2046|1
+ICHseqBatch3g_D03	GSM4976046	Neutrophils from blood of ICH patient number 2026 on day 3 of study - replicate 1	ICHseqBatch3g_D03	Neutrophil	ICHBlood	2026	3	1	Neutrophil|ICHBlood|2026|3
+ICHseqBatch3g_C03	GSM4976041	Neutrophils from blood of ICH patient number 2026 on day 1 of study - replicate 1	ICHseqBatch3g_C03	Neutrophil	ICHBlood	2026	1	1	Neutrophil|ICHBlood|2026|1
+ICHseqBatch3g_B01	GSM4975991	Neutrophils from hematoma of ICH patient number 2046 on day 3 of study - replicate 1	ICHseqBatch3g_B01	Neutrophil	Hematoma	2046	3	1	Neutrophil|Hematoma|2046|3
+ICHseqBatch3g_C06	GSM4976045	Neutrophils from hematoma of ICH patient number 2026 on day 2 of study - replicate 2	ICHseqBatch3g_C06	Neutrophil	Hematoma	2026	2	2	Neutrophil|Hematoma|2026|2
+ICHseqBatch3g_B04	GSM4976021	Neutrophils from hematoma of ICH patient number 2184 on day 1 of study - replicate 1	ICHseqBatch3g_B04	Neutrophil	Hematoma	2184	1	1	Neutrophil|Hematoma|2184|1
+ICHseqBatch3g_B09	GSM4975987	Neutrophils from hematoma of ICH patient number 2046 on day 2 of study - replicate 1	ICHseqBatch3g_B09	Neutrophil	Hematoma	2046	2	1	Neutrophil|Hematoma|2046|2
+ICHseqBatch3g_B11	GSM4975993	Neutrophils from blood of ICH patient number 2046 on day 4 of study - replicate 1	ICHseqBatch3g_B11	Neutrophil	ICHBlood	2046	4	1	Neutrophil|ICHBlood|2046|4
+ICHseqBatch3g_D01	GSM4976042	Neutrophils from blood of ICH patient number 2026 on day 2 of study - replicate 1	ICHseqBatch3g_D01	Neutrophil	ICHBlood	2026	2	1	Neutrophil|ICHBlood|2026|2
+ICHseqBatch3g_A04	GSM4975990	Neutrophils from blood of ICH patient number 2046 on day 3 of study - replicate 2	ICHseqBatch3g_A04	Neutrophil	ICHBlood	2046	3	2	Neutrophil|ICHBlood|2046|3
+ICHseqBatch3g_B03	GSM4975995	Neutrophils from hematoma of ICH patient number 2046 on day 4 of study - replicate 2	ICHseqBatch3g_B03	Neutrophil	Hematoma	2046	4	2	Neutrophil|Hematoma|2046|4
+ICHseqBatch3g_B02	GSM4975994	Neutrophils from hematoma of ICH patient number 2046 on day 4 of study - replicate 1	ICHseqBatch3g_B02	Neutrophil	Hematoma	2046	4	1	Neutrophil|Hematoma|2046|4
+ICHseqBatch3g_A01	GSM4976026	Neutrophils from hematoma of ICH patient number 2184 on day 3 of study - replicate 2	ICHseqBatch3g_A01	Neutrophil	Hematoma	2184	3	2	Neutrophil|Hematoma|2184|3
+ICHseqBatch3g_C07	GSM4976050	Neutrophils from hematoma of ICH patient number 2026 on day 4 of study - replicate 1	ICHseqBatch3g_C07	Neutrophil	Hematoma	2026	4	1	Neutrophil|Hematoma|2026|4
+ICHseqBatch3g_A11	GSM4976022	Neutrophils from hematoma of ICH patient number 2184 on day 1 of study - replicate 2	ICHseqBatch3g_A11	Neutrophil	Hematoma	2184	1	2	Neutrophil|Hematoma|2184|1
+ICHseqBatch3g_C04	GSM4976051	Neutrophils from hematoma of ICH patient number 2026 on day 4 of study - replicate 2	ICHseqBatch3g_C04	Neutrophil	Hematoma	2026	4	2	Neutrophil|Hematoma|2026|4
+ICHseqBatch3g_A03	GSM4975986	Neutrophils from blood of ICH patient number 2046 on day 2 of study - replicate 2	ICHseqBatch3g_A03	Neutrophil	ICHBlood	2046	2	2	Neutrophil|ICHBlood|2046|2
+ICHseqBatch3g_B10	GSM4975989	Neutrophils from blood of ICH patient number 2046 on day 3 of study - replicate 1	ICHseqBatch3g_B10	Neutrophil	ICHBlood	2046	3	1	Neutrophil|ICHBlood|2046|3
+ICHseqBatch3g_D02	GSM4976049	Neutrophils from blood of ICH patient number 2026 on day 4 of study - replicate 1	ICHseqBatch3g_D02	Neutrophil	ICHBlood	2026	4	1	Neutrophil|ICHBlood|2026|4
+ICHseqBatch3g_A06	GSM4975988	Neutrophils from hematoma of ICH patient number 2046 on day 2 of study - replicate 2	ICHseqBatch3g_A06	Neutrophil	Hematoma	2046	2	2	Neutrophil|Hematoma|2046|2
+ICHseqBatch3g_C10	GSM4976047	Neutrophils from blood of ICH patient number 2026 on day 3 of study - replicate 2	ICHseqBatch3g_C10	Neutrophil	ICHBlood	2026	3	2	Neutrophil|ICHBlood|2026|3
+ICHseqBatch3g_A08	GSM4976028	Neutrophils from hematoma of ICH patient number 2184 on day 4 of study - replicate 2	ICHseqBatch3g_A08	Neutrophil	Hematoma	2184	4	2	Neutrophil|Hematoma|2184|4
+ICHseqBatch3g_C02	GSM4976019	Neutrophils from blood of ICH patient number 2184 on day 1 of study - replicate 1	ICHseqBatch3g_C02	Neutrophil	ICHBlood	2184	1	1	Neutrophil|ICHBlood|2184|1
+ICHseqBatch3g_D04	GSM4976043	Neutrophils from blood of ICH patient number 2026 on day 2 of study - replicate 2	ICHseqBatch3g_D04	Neutrophil	ICHBlood	2026	2	2	Neutrophil|ICHBlood|2026|2
+ICHseqBatch3g_A05	GSM4975992	Neutrophils from hematoma of ICH patient number 2046 on day 3 of study - replicate 2	ICHseqBatch3g_A05	Neutrophil	Hematoma	2046	3	2	Neutrophil|Hematoma|2046|3
+ICHseqBatch3g_A07	GSM4975984	Neutrophils from hematoma of ICH patient number 2046 on day 1 of study - replicate 2	ICHseqBatch3g_A07	Neutrophil	Hematoma	2046	1	2	Neutrophil|Hematoma|2046|1
+ICHseqBatch3g_C01	GSM4976027	Neutrophils from hematoma of ICH patient number 2184 on day 4 of study - replicate 1	ICHseqBatch3g_C01	Neutrophil	Hematoma	2184	4	1	Neutrophil|Hematoma|2184|4
+ICHseqBatch3g_C09	GSM4976044	Neutrophils from hematoma of ICH patient number 2026 on day 2 of study - replicate 1	ICHseqBatch3g_C09	Neutrophil	Hematoma	2026	2	1	Neutrophil|Hematoma|2026|2
+ICHseqBatch3g_B08	GSM4976029	Neutrophils from blood of ICH patient number 2184 on day 5 of study - replicate 1	ICHseqBatch3g_B08	Neutrophil	ICHBlood	2184	5	1	Neutrophil|ICHBlood|2184|5
+ICHseqBatch3g_B07	GSM4975985	Neutrophils from blood of ICH patient number 2046 on day 2 of study - replicate 1	ICHseqBatch3g_B07	Neutrophil	ICHBlood	2046	2	1	Neutrophil|ICHBlood|2046|2
+ICHseqBatch4g_D03	GSM4976053	Neutrophils from blood of ICH patient number 2331 on day 1 of study - replicate 1	ICHseqBatch4g_D03	Neutrophil	ICHBlood	2331	1	1	Neutrophil|ICHBlood|2331|1
+ICHseqBatch4g_B02	GSM4976154	Neutrophils from HC blood of ICH patient number HC067371 on day 1 of study - replicate 1	ICHseqBatch4g_B02	Neutrophil	HealthyBlood	HC067371	1	1	Neutrophil|HealthyBlood|HC067371|1
+ICHseqBatch4g_D05	GSM4976155	Neutrophils from HC blood of ICH patient number HC067371 on day 1 of study - replicate 2	ICHseqBatch4g_D05	Neutrophil	HealthyBlood	HC067371	1	2	Neutrophil|HealthyBlood|HC067371|1
+ICHseqBatch4g_A08	GSM4976039	Neutrophils from blood of ICH patient number 2457 on day 4 of study - replicate 2	ICHseqBatch4g_A08	Neutrophil	ICHBlood	2457	4	2	Neutrophil|ICHBlood|2457|4
+ICHseqBatch4g_B06	GSM4976159	Neutrophils from HC blood of ICH patient number HC067591 on day 1 of study - replicate 2	ICHseqBatch4g_B06	Neutrophil	HealthyBlood	HC067591	1	2	Neutrophil|HealthyBlood|HC067591|1
+ICHseqBatch4g_D02	GSM4976062	Neutrophils from hematoma of ICH patient number 2331 on day 3 of study - replicate 2	ICHseqBatch4g_D02	Neutrophil	Hematoma	2331	3	2	Neutrophil|Hematoma|2331|3
+ICHseqBatch4g_D09	GSM4976162	Neutrophils from HC blood of ICH patient number HC067973 on day 1 of study - replicate 2	ICHseqBatch4g_D09	Neutrophil	HealthyBlood	HC067973	1	2	Neutrophil|HealthyBlood|HC067973|1
+ICHseqBatch4g_B10	GSM4975977	Neutrophils from blood of ICH patient number 2132 on day 2 of study - replicate 1	ICHseqBatch4g_B10	Neutrophil	ICHBlood	2132	2	1	Neutrophil|ICHBlood|2132|2
+ICHseqBatch4g_D01	GSM4976058	Neutrophils from hematoma of ICH patient number 2331 on day 2 of study - replicate 2	ICHseqBatch4g_D01	Neutrophil	Hematoma	2331	2	2	Neutrophil|Hematoma|2331|2
+ICHseqBatch4g_B04	GSM4976161	Neutrophils from HC blood of ICH patient number HC067973 on day 1 of study - replicate 1	ICHseqBatch4g_B04	Neutrophil	HealthyBlood	HC067973	1	1	Neutrophil|HealthyBlood|HC067973|1
+ICHseqBatch4g_B01	GSM4976158	Neutrophils from HC blood of ICH patient number HC067591 on day 1 of study - replicate 1	ICHseqBatch4g_B01	Neutrophil	HealthyBlood	HC067591	1	1	Neutrophil|HealthyBlood|HC067591|1
+ICHseqBatch4g_C01	GSM4975982	Neutrophils from blood of ICH patient number 2132 on day 5 of study - replicate 1	ICHseqBatch4g_C01	Neutrophil	ICHBlood	2132	5	1	Neutrophil|ICHBlood|2132|5
+ICHseqBatch4g_B11	GSM4975978	Neutrophils from blood of ICH patient number 2132 on day 3 of study - replicate 1	ICHseqBatch4g_B11	Neutrophil	ICHBlood	2132	3	1	Neutrophil|ICHBlood|2132|3
+ICHseqBatch4g_A05	GSM4976040	Neutrophils from blood of ICH patient number 2457 on day 5 of study - replicate 1	ICHseqBatch4g_A05	Neutrophil	ICHBlood	2457	5	1	Neutrophil|ICHBlood|2457|5
+ICHseqBatch4g_C09	GSM4976054	Neutrophils from hematoma of ICH patient number 2331 on day 1 of study - replicate 1	ICHseqBatch4g_C09	Neutrophil	Hematoma	2331	1	1	Neutrophil|Hematoma|2331|1
+ICHseqBatch4g_B09	GSM4975976	Neutrophils from blood of ICH patient number 2132 on day 1 of study - replicate 1	ICHseqBatch4g_B09	Neutrophil	ICHBlood	2132	1	1	Neutrophil|ICHBlood|2132|1
+ICHseqBatch4g_C03	GSM4975981	Neutrophils from blood of ICH patient number 2132 on day 4 of study - replicate 2	ICHseqBatch4g_C03	Neutrophil	ICHBlood	2132	4	2	Neutrophil|ICHBlood|2132|4
+ICHseqBatch4g_D06	GSM4976163	Neutrophils from HC blood of ICH patient number HC067973 on day 1 of study - replicate 3	ICHseqBatch4g_D06	Neutrophil	HealthyBlood	HC067973	1	3	Neutrophil|HealthyBlood|HC067973|1
+ICHseqBatch4g_D07	GSM4976056	Neutrophils from blood of ICH patient number 2331 on day 2 of study - replicate 1	ICHseqBatch4g_D07	Neutrophil	ICHBlood	2331	2	1	Neutrophil|ICHBlood|2331|2
+ICHseqBatch4g_A04	GSM4976038	Neutrophils from blood of ICH patient number 2457 on day 4 of study - replicate 1	ICHseqBatch4g_A04	Neutrophil	ICHBlood	2457	4	1	Neutrophil|ICHBlood|2457|4
+ICHseqBatch4g_A02	GSM4976031	Neutrophils from blood of ICH patient number 2457 on day 2 of study - replicate 1	ICHseqBatch4g_A02	Neutrophil	ICHBlood	2457	2	1	Neutrophil|ICHBlood|2457|2
+ICHseqBatch4g_A12	GSM4976037	Neutrophils from hematoma of ICH patient number 2457 on day 3 of study - replicate 2	ICHseqBatch4g_A12	Neutrophil	Hematoma	2457	3	2	Neutrophil|Hematoma|2457|3
+ICHseqBatch4g_B08	GSM4976156	Neutrophils from HC blood of ICH patient number HC067371 on day 1 of study - replicate 3	ICHseqBatch4g_B08	Neutrophil	HealthyBlood	HC067371	1	3	Neutrophil|HealthyBlood|HC067371|1
+ICHseqBatch4g_A06	GSM4976035	Neutrophils from blood of ICH patient number 2457 on day 3 of study - replicate 2	ICHseqBatch4g_A06	Neutrophil	ICHBlood	2457	3	2	Neutrophil|ICHBlood|2457|3
+ICHseqBatch4g_A03	GSM4976034	Neutrophils from blood of ICH patient number 2457 on day 3 of study - replicate 1	ICHseqBatch4g_A03	Neutrophil	ICHBlood	2457	3	1	Neutrophil|ICHBlood|2457|3
+ICHseqBatch4g_D08	GSM4976059	Neutrophils from blood of ICH patient number 2331 on day 3 of study - replicate 1	ICHseqBatch4g_D08	Neutrophil	ICHBlood	2331	3	1	Neutrophil|ICHBlood|2331|3
+ICHseqBatch4g_A07	GSM4976032	Neutrophils from hematoma of ICH patient number 2457 on day 2 of study - replicate 1	ICHseqBatch4g_A07	Neutrophil	Hematoma	2457	2	1	Neutrophil|Hematoma|2457|2
+ICHseqBatch4g_D10	GSM4976063	Neutrophils from blood of ICH patient number 2331 on day 4 of study - replicate 1	ICHseqBatch4g_D10	Neutrophil	ICHBlood	2331	4	1	Neutrophil|ICHBlood|2331|4
+ICHseqBatch4g_C12	GSM4976061	Neutrophils from hematoma of ICH patient number 2331 on day 3 of study - replicate 1	ICHseqBatch4g_C12	Neutrophil	Hematoma	2331	3	1	Neutrophil|Hematoma|2331|3
+ICHseqBatch4g_A09	GSM4976036	Neutrophils from hematoma of ICH patient number 2457 on day 3 of study - replicate 1	ICHseqBatch4g_A09	Neutrophil	Hematoma	2457	3	1	Neutrophil|Hematoma|2457|3
+ICHseqBatch4g_A01	GSM4976030	Neutrophils from blood of ICH patient number 2457 on day 1 of study - replicate 1	ICHseqBatch4g_A01	Neutrophil	ICHBlood	2457	1	1	Neutrophil|ICHBlood|2457|1
+ICHseqBatch4g_C02	GSM4975979	Neutrophils from blood of ICH patient number 2132 on day 3 of study - replicate 2	ICHseqBatch4g_C02	Neutrophil	ICHBlood	2132	3	2	Neutrophil|ICHBlood|2132|3
+ICHseqBatch4g_D11	GSM4976060	Neutrophils from blood of ICH patient number 2331 on day 3 of study - replicate 2	ICHseqBatch4g_D11	Neutrophil	ICHBlood	2331	3	2	Neutrophil|ICHBlood|2331|3
+ICHseqBatch4g_B05	GSM4976160	Neutrophils from HC blood of ICH patient number HC067591 on day 1 of study - replicate 3	ICHseqBatch4g_B05	Neutrophil	HealthyBlood	HC067591	1	3	Neutrophil|HealthyBlood|HC067591|1
+ICHseqBatch4g_D12	GSM4976057	Neutrophils from blood of ICH patient number 2331 on day 2 of study - replicate 2	ICHseqBatch4g_D12	Neutrophil	ICHBlood	2331	2	2	Neutrophil|ICHBlood|2331|2
+ICHseqBatch4g_C10	GSM4976055	Neutrophils from hematoma of ICH patient number 2331 on day 1 of study - replicate 2	ICHseqBatch4g_C10	Neutrophil	Hematoma	2331	1	2	Neutrophil|Hematoma|2331|1
+ICHseqBatch4g_B12	GSM4975980	Neutrophils from blood of ICH patient number 2132 on day 4 of study - replicate 1	ICHseqBatch4g_B12	Neutrophil	ICHBlood	2132	4	1	Neutrophil|ICHBlood|2132|4
+ICHseqBatch5g_C01	GSM4976064	Neutrophils from blood of ICH patient number 2133 on day 1 of study - replicate 1	ICHseqBatch5g_C01	Neutrophil	ICHBlood	2133	1	1	Neutrophil|ICHBlood|2133|1
+ICHseqBatch5g_E02	GSM4976075	Neutrophils from blood of ICH patient number 2404 on day 2 of study - replicate 1	ICHseqBatch5g_E02	Neutrophil	ICHBlood	2404	2	1	Neutrophil|ICHBlood|2404|2
+ICHseqBatch5g_C05	GSM4976070	Neutrophils from blood of ICH patient number 2133 on day 5 of study - replicate 1	ICHseqBatch5g_C05	Neutrophil	ICHBlood	2133	5	1	Neutrophil|ICHBlood|2133|5
+ICHseqBatch5g_E11	GSM4976078	Neutrophils from hematoma of ICH patient number 2404 on day 2 of study - replicate 2	ICHseqBatch5g_E11	Neutrophil	Hematoma	2404	2	2	Neutrophil|Hematoma|2404|2
+ICHseqBatch5g_D06	GSM4976099	Neutrophils from blood of ICH patient number 2131 on day 3 of study - replicate 2	ICHseqBatch5g_D06	Neutrophil	ICHBlood	2131	3	2	Neutrophil|ICHBlood|2131|3
+ICHseqBatch5g_B07	GSM4976011	Neutrophils from blood of ICH patient number 2449 on day 2 of study - replicate 1	ICHseqBatch5g_B07	Neutrophil	ICHBlood	2449	2	1	Neutrophil|ICHBlood|2449|2
+ICHseqBatch5g_C02	GSM4976066	Neutrophils from blood of ICH patient number 2133 on day 2 of study - replicate 1	ICHseqBatch5g_C02	Neutrophil	ICHBlood	2133	2	1	Neutrophil|ICHBlood|2133|2
+ICHseqBatch5g_D08	GSM4976095	Neutrophils from blood of ICH patient number 2131 on day 1 of study - replicate 1	ICHseqBatch5g_D08	Neutrophil	ICHBlood	2131	1	1	Neutrophil|ICHBlood|2131|1
+ICHseqBatch5g_E03	GSM4976079	Neutrophils from blood of ICH patient number 2404 on day 3 of study - replicate 1	ICHseqBatch5g_E03	Neutrophil	ICHBlood	2404	3	1	Neutrophil|ICHBlood|2404|3
+ICHseqBatch5g_C07	GSM4976069	Neutrophils from blood of ICH patient number 2133 on day 4 of study - replicate 2	ICHseqBatch5g_C07	Neutrophil	ICHBlood	2133	4	2	Neutrophil|ICHBlood|2133|4
+ICHseqBatch5g_B11	GSM4976012	Neutrophils from blood of ICH patient number 2449 on day 2 of study - replicate 2	ICHseqBatch5g_B11	Neutrophil	ICHBlood	2449	2	2	Neutrophil|ICHBlood|2449|2
+ICHseqBatch5g_E10	GSM4976074	Neutrophils from hematoma of ICH patient number 2404 on day 1 of study - replicate 2	ICHseqBatch5g_E10	Neutrophil	Hematoma	2404	1	2	Neutrophil|Hematoma|2404|1
+ICHseqBatch5g_E06	GSM4976072	Neutrophils from blood of ICH patient number 2404 on day 1 of study - replicate 2	ICHseqBatch5g_E06	Neutrophil	ICHBlood	2404	1	2	Neutrophil|ICHBlood|2404|1
+ICHseqBatch5g_B10	GSM4976018	Neutrophils from blood of ICH patient number 2449 on day 5 of study - replicate 1	ICHseqBatch5g_B10	Neutrophil	ICHBlood	2449	5	1	Neutrophil|ICHBlood|2449|5
+ICHseqBatch5g_C04	GSM4976068	Neutrophils from blood of ICH patient number 2133 on day 4 of study - replicate 1	ICHseqBatch5g_C04	Neutrophil	ICHBlood	2133	4	1	Neutrophil|ICHBlood|2133|4
+ICHseqBatch5g_C03	GSM4976067	Neutrophils from blood of ICH patient number 2133 on day 3 of study - replicate 1	ICHseqBatch5g_C03	Neutrophil	ICHBlood	2133	3	1	Neutrophil|ICHBlood|2133|3
+ICHseqBatch5g_D02	GSM4976102	Neutrophils from blood of ICH patient number 2131 on day 4 of study - replicate 1	ICHseqBatch5g_D02	Neutrophil	ICHBlood	2131	4	1	Neutrophil|ICHBlood|2131|4
+ICHseqBatch5g_E07	GSM4976076	Neutrophils from blood of ICH patient number 2404 on day 2 of study - replicate 2	ICHseqBatch5g_E07	Neutrophil	ICHBlood	2404	2	2	Neutrophil|ICHBlood|2404|2
+ICHseqBatch5g_D07	GSM4976103	Neutrophils from blood of ICH patient number 2131 on day 4 of study - replicate 2	ICHseqBatch5g_D07	Neutrophil	ICHBlood	2131	4	2	Neutrophil|ICHBlood|2131|4
+ICHseqBatch5g_B01	GSM4976013	Neutrophils from hematoma of ICH patient number 2449 on day 2 of study - replicate 1	ICHseqBatch5g_B01	Neutrophil	Hematoma	2449	2	1	Neutrophil|Hematoma|2449|2
+ICHseqBatch5g_D05	GSM4976097	Neutrophils from blood of ICH patient number 2131 on day 2 of study - replicate 2	ICHseqBatch5g_D05	Neutrophil	ICHBlood	2131	2	2	Neutrophil|ICHBlood|2131|2
+ICHseqBatch5g_E09	GSM4976077	Neutrophils from hematoma of ICH patient number 2404 on day 2 of study - replicate 1	ICHseqBatch5g_E09	Neutrophil	Hematoma	2404	2	1	Neutrophil|Hematoma|2404|2
+ICHseqBatch5g_D01	GSM4976098	Neutrophils from blood of ICH patient number 2131 on day 3 of study - replicate 1	ICHseqBatch5g_D01	Neutrophil	ICHBlood	2131	3	1	Neutrophil|ICHBlood|2131|3
+ICHseqBatch5g_B06	GSM4976010	Neutrophils from blood of ICH patient number 2449 on day 1 of study - replicate 1	ICHseqBatch5g_B06	Neutrophil	ICHBlood	2449	1	1	Neutrophil|ICHBlood|2449|1
+ICHseqBatch5g_D10	GSM4976100	Neutrophils from hematoma of ICH patient number 2131 on day 3 of study - replicate 1	ICHseqBatch5g_D10	Neutrophil	Hematoma	2131	3	1	Neutrophil|Hematoma|2131|3
+ICHseqBatch5g_E01	GSM4976071	Neutrophils from blood of ICH patient number 2404 on day 1 of study - replicate 1	ICHseqBatch5g_E01	Neutrophil	ICHBlood	2404	1	1	Neutrophil|ICHBlood|2404|1
+ICHseqBatch5g_B08	GSM4976015	Neutrophils from blood of ICH patient number 2449 on day 3 of study - replicate 1	ICHseqBatch5g_B08	Neutrophil	ICHBlood	2449	3	1	Neutrophil|ICHBlood|2449|3
+ICHseqBatch5g_E08	GSM4976073	Neutrophils from hematoma of ICH patient number 2404 on day 1 of study - replicate 1	ICHseqBatch5g_E08	Neutrophil	Hematoma	2404	1	1	Neutrophil|Hematoma|2404|1
+ICHseqBatch5g_B09	GSM4976017	Neutrophils from blood of ICH patient number 2449 on day 4 of study - replicate 1	ICHseqBatch5g_B09	Neutrophil	ICHBlood	2449	4	1	Neutrophil|ICHBlood|2449|4
+ICHseqBatch5g_B02	GSM4976014	Neutrophils from hematoma of ICH patient number 2449 on day 2 of study - replicate 2	ICHseqBatch5g_B02	Neutrophil	Hematoma	2449	2	2	Neutrophil|Hematoma|2449|2
+ICHseqBatch5g_D03	GSM4976104	Neutrophils from blood of ICH patient number 2131 on day 5 of study - replicate 1	ICHseqBatch5g_D03	Neutrophil	ICHBlood	2131	5	1	Neutrophil|ICHBlood|2131|5
+ICHseqBatch5g_E04	GSM4976080	Neutrophils from blood of ICH patient number 2404 on day 4 of study - replicate 1	ICHseqBatch5g_E04	Neutrophil	ICHBlood	2404	4	1	Neutrophil|ICHBlood|2404|4
+ICHseqBatch5g_B12	GSM4976016	Neutrophils from blood of ICH patient number 2449 on day 3 of study - replicate 2	ICHseqBatch5g_B12	Neutrophil	ICHBlood	2449	3	2	Neutrophil|ICHBlood|2449|3
+ICHseqBatch5g_C08	GSM4976065	Neutrophils from hematoma of ICH patient number 2133 on day 1 of study - replicate 1	ICHseqBatch5g_C08	Neutrophil	Hematoma	2133	1	1	Neutrophil|Hematoma|2133|1
+ICHseqBatch5g_D11	GSM4976096	Neutrophils from hematoma of ICH patient number 2131 on day 1 of study - replicate 2	ICHseqBatch5g_D11	Neutrophil	Hematoma	2131	1	2	Neutrophil|Hematoma|2131|1
+ICHseqBatch5g_D12	GSM4976101	Neutrophils from hematoma of ICH patient number 2131 on day 3 of study - replicate 2	ICHseqBatch5g_D12	Neutrophil	Hematoma	2131	3	2	Neutrophil|Hematoma|2131|3
+ICHSeq7gandtPA_D08	GSM4976157	Neutrophils from HC blood of ICH patient number HC067412 on day 1 of study - replicate 2	ICHSeq7gandtPA_D08	Neutrophil	HealthyBlood	HC067412	1	2	Neutrophil|HealthyBlood|HC067412|1
+ICHSeq7gandtPA_C07	GSM4976147	Neutrophils from blood of ICH patient number 2287 on day 2 of study - replicate 1	ICHSeq7gandtPA_C07	Neutrophil	ICHBlood	2287	2	1	Neutrophil|ICHBlood|2287|2
+ICHSeq7gandtPA_D10	GSM4976153	Neutrophils from HC blood of ICH patient number HC067076 on day 1 of study - replicate 2	ICHSeq7gandtPA_D10	Neutrophil	HealthyBlood	HC067076	1	2	Neutrophil|HealthyBlood|HC067076|1
+ICHSeq7gandtPA_C10	GSM4976151	Neutrophils from blood of ICH patient number 2287 on day 5 of study - replicate 1	ICHSeq7gandtPA_C10	Neutrophil	ICHBlood	2287	5	1	Neutrophil|ICHBlood|2287|5
+ICHSeq7gandtPA_D03	GSM4976149	Neutrophils from hematoma of ICH patient number 2287 on day 3 of study - replicate 1	ICHSeq7gandtPA_D03	Neutrophil	Hematoma	2287	3	1	Neutrophil|Hematoma|2287|3
+ICHSeq7gandtPA_C09	GSM4976150	Neutrophils from blood of ICH patient number 2287 on day 4 of study - replicate 1	ICHSeq7gandtPA_C09	Neutrophil	ICHBlood	2287	4	1	Neutrophil|ICHBlood|2287|4
+ICHSeq7gandtPA_D04	GSM4976146	Neutrophils from hematoma of ICH patient number 2287 on day 1 of study - replicate 2	ICHSeq7gandtPA_D04	Neutrophil	Hematoma	2287	1	2	Neutrophil|Hematoma|2287|1
+ICHSeq7gandtPA_D01	GSM4976145	Neutrophils from hematoma of ICH patient number 2287 on day 1 of study - replicate 1	ICHSeq7gandtPA_D01	Neutrophil	Hematoma	2287	1	1	Neutrophil|Hematoma|2287|1
+ICHSeq7gandtPA_D09	GSM4976152	Neutrophils from HC blood of ICH patient number HC067076 on day 1 of study - replicate 1	ICHSeq7gandtPA_D09	Neutrophil	HealthyBlood	HC067076	1	1	Neutrophil|HealthyBlood|HC067076|1
+ICHSeq7gandtPA_C06	GSM4976144	Neutrophils from blood of ICH patient number 2287 on day 1 of study - replicate 1	ICHSeq7gandtPA_C06	Neutrophil	ICHBlood	2287	1	1	Neutrophil|ICHBlood|2287|1
+ICHSeq7gandtPA_C08	GSM4976148	Neutrophils from blood of ICH patient number 2287 on day 3 of study - replicate 1	ICHSeq7gandtPA_C08	Neutrophil	ICHBlood	2287	3	1	Neutrophil|ICHBlood|2287|3
+ICHseqBatch3g_A09	GSM4976023	Neutrophils from blood of ICH patient number 2184 on day 2 of study - replicate 2	ICHseqBatch3g_A09	Neutrophil	ICHBlood	2184	2	2	Neutrophil|ICHBlood|2184|2
+ICHseqBatch4g_A11	GSM4976033	Neutrophils from hematoma of ICH patient number 2457 on day 2 of study - replicate 2	ICHseqBatch4g_A11	Neutrophil	Hematoma	2457	2	2	Neutrophil|Hematoma|2457|2
+ICHseqBatch2g_D01	GSM4976126	Neutrophils from hematoma of ICH patient number 2129 on day 4 of study - replicate 2	ICHseqBatch2g_D01	Neutrophil	Hematoma	2129	4	2	Neutrophil|Hematoma|2129|4
+ICHseqBatch3g_B05	GSM4976024	Neutrophils from hematoma of ICH patient number 2184 on day 2 of study - replicate 1	ICHseqBatch3g_B05	Neutrophil	Hematoma	2184	2	1	Neutrophil|Hematoma|2184|2
+ICHseqBatch2g_D09	GSM4976121	Neutrophils from blood of ICH patient number 2129 on day 3 of study - replicate 2	ICHseqBatch2g_D09	Neutrophil	ICHBlood	2129	3	2	Neutrophil|ICHBlood|2129|3
+ICHseqBatch3g_A12	GSM4976025	Neutrophils from hematoma of ICH patient number 2184 on day 2 of study - replicate 2	ICHseqBatch3g_A12	Neutrophil	Hematoma	2184	2	2	Neutrophil|Hematoma|2184|2
+ICHseqBatch3g_D05	GSM4976052	Neutrophils from blood of ICH patient number 2026 on day 5 of study - replicate 1	ICHseqBatch3g_D05	Neutrophil	ICHBlood	2026	5	1	Neutrophil|ICHBlood|2026|5

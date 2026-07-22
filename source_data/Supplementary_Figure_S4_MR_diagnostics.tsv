@@ -1,0 +1,5 @@
+gene	nsnp	mean_F	min_F	cochran_Q	Q_df	Q_pval	egger_intercept	egger_intercept_se	egger_intercept_pval	steiger_R2_exposure	steiger_R2_outcome	steiger_correct_direction	heterogeneity_note	pleiotropy_note
+HMOX1	1	965.251692250001	965.251692250001	NA	NA	NA	NA	NA	NA	0.00923874739093299	0.0000416925350883709	TRUE	Not estimable: one independent IV	MR-Egger intercept not estimable: fewer than three IVs
+NLRP3	1	966.059642250002	966.059642250002	NA	NA	NA	NA	NA	NA	0.0153556622710717	0.000000787036350570238	TRUE	Not estimable: one independent IV	MR-Egger intercept not estimable: fewer than three IVs
+STAT3	1	288.43587556	288.43587556	NA	NA	NA	NA	NA	NA	0.0044853642330605	0.000131654849740387	TRUE	Not estimable: one independent IV	MR-Egger intercept not estimable: fewer than three IVs
+TLR4	1	5177.17664676001	5177.17664676001	NA	NA	NA	NA	NA	NA	0.0582714296128082	0.00000194442753620612	TRUE	Not estimable: one independent IV	MR-Egger intercept not estimable: fewer than three IVs

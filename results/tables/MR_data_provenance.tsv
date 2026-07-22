@@ -1,0 +1,11 @@
+item	value
+MR exposure	eQTLGen whole-blood cis-eQTL instrument rows; per-SNP n=19,772-31,684
+Colocalisation exposure	GTEx whole blood eQTL Catalogue QTD000356; n=670
+Outcome	FinnGen release 10 I9_ICH
+Genome build	GRCh38 for exposure and outcome; Ensembl GRCh37 endpoint used only for 1000G LD by rsID
+LD reference	1000 Genomes phase 3 EUR via Ensembl REST API
+Clumping threshold	r2 < 0.001, 500-kb maximum public-API window within each cis region
+Exposure threshold	P < 5e-8
+Outcome cases	4056
+Outcome controls	371717
+Steiger assumed population prevalence	0.003

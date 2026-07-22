@@ -1,0 +1,8 @@
+parameter	value
+Exposure prior SD	0.15
+Outcome log-OR prior SD	0.20
+p1	1e-4
+p2	1e-4
+p12 sensitivity	1e-6, 1e-5, 1e-4
+Minimum matched variants	50
+Genome builds	eQTL Catalogue and FinnGen R10 both queried on GRCh38

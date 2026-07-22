@@ -1,0 +1,5 @@
+gene	ensembl_gene_id	chr_hg19	start_hg19	end_hg19	chr_hg38	start_hg38	end_hg38	role
+NLRP3	ENSG00000162711	1	247579475	247612119	1	247332331	247449668	downstream_expression_state_candidate
+TLR4	ENSG00000136869	9	120466681	120487013	9	117704170	117724735	genetically_prioritized_candidate_regulator
+STAT3	ENSG00000168610	17	40465342	40540590	17	42313322	42388574	genetically_prioritized_candidate_regulator
+HMOX1	ENSG00000100292	22	35776610	35790207	22	35380361	35394214	downstream_expression_state_candidate

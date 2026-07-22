@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite the archived software release and the associated manuscript."
+title: "Reproducible raw-data reanalysis of human intracerebral haemorrhage transcriptomic and genetic evidence"
+type: software
+version: 1.0.0
+date-released: 2026-07-22
+authors:
+  - family-names: Zhao
+    given-names: Zhihao
+  - family-names: Jiang
+    given-names: Xiaobing
+  - family-names: Gao
+    given-names: Wenwen
+  - family-names: Man
+    given-names: Xin
+  - family-names: Li
+    given-names: Fei
+  - family-names: Ding
+    given-names: Zhiwei
+  - family-names: Yi
+    given-names: Fan
+  - family-names: Xie
+    given-names: Kaiming
+  - family-names: Zhang
+    given-names: Liang
+  - family-names: Wu
+    given-names: Hao
+  - family-names: Zhao
+    given-names: Haikang
+license: MIT
+keywords:
+  - intracerebral haemorrhage
+  - transcriptomics
+  - Mendelian randomization
+  - colocalisation
+  - single-cell RNA sequencing
