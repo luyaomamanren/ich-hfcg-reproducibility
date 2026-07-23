@@ -6,6 +6,14 @@ tables. The primary cohorts are GSE24265 (Affymetrix CEL files), GSE163256 (raw 
 matrices with technical replicates), and GSE266873 (10x single-cell matrices). GSE166638 is
 treated as supportive single-patient context and is not a primary validation cohort.
 
+## Archived release
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21502092.svg)](https://doi.org/10.5281/zenodo.21502092)
+
+- GitHub release: https://github.com/luyaomamanren/ich-hfcg-reproducibility/releases/tag/v1.0.0
+- Zenodo version DOI: https://doi.org/10.5281/zenodo.21502092
+- Archived Git commit: `9a9fc07014fa630484b5716b47b2565322b06ded`
+
 ## Reproduce the analysis
 
 Use R 4.5.2 from the repository root:

@@ -4,6 +4,14 @@
   "upload_type": "software",
   "license": "MIT",
   "version": "1.0.0",
+  "doi": "10.5281/zenodo.21502092",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/luyaomamanren/ich-hfcg-reproducibility/releases/tag/v1.0.0",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
   "creators": [
     {"name": "Zhao, Zhihao"},
     {"name": "Jiang, Xiaobing"},

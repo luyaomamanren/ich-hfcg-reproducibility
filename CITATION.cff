@@ -3,7 +3,10 @@ message: "If you use this workflow, please cite the archived software release an
 title: "Reproducible raw-data reanalysis of human intracerebral haemorrhage transcriptomic and genetic evidence"
 type: software
 version: 1.0.0
-date-released: 2026-07-22
+date-released: 2026-07-23
+doi: 10.5281/zenodo.21502092
+url: "https://doi.org/10.5281/zenodo.21502092"
+repository-code: "https://github.com/luyaomamanren/ich-hfcg-reproducibility"
 authors:
   - family-names: Zhao
     given-names: Zhihao
